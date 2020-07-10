@@ -1,0 +1,2856 @@
+<?xml version='1.0' encoding='utf-8'?>
+<q:quakeml xmlns="http://quakeml.org/xmlns/bed/1.2" xmlns:q="http://quakeml.org/xmlns/quakeml/1.2">
+  <eventParameters publicID="smi:local/038b9b97-5755-4647-82a1-8e29b81638fe">
+    <event publicID="smi:local/84eaf50d-a7b8-4498-99b1-b49263b8e6d7">
+      <preferredOriginID>smi:local/b07f4e59-a118-4221-9d5a-54c4e21bf11c</preferredOriginID>
+      <description>
+        <text>LR</text>
+      </description>
+      <origin publicID="smi:local/b07f4e59-a118-4221-9d5a-54c4e21bf11c">
+        <time>
+          <value>2020-03-18T13:09:31.530000Z</value>
+        </time>
+        <latitude>
+          <value>40.751</value>
+        </latitude>
+        <longitude>
+          <value>112.07833333333333</value>
+        </longitude>
+        <depth>
+          <value>11900.0</value>
+        </depth>
+      </origin>
+      <pick publicID="smi:local/e85fc4f3-f6d5-46ab-a286-3fb0a465fcbe">
+        <time>
+          <value>2020-03-18T13:09:35.910128Z</value>
+          <uncertainty>0.024587154388427734</uncertainty>
+        </time>
+        <waveformID networkCode="UU" stationCode="FTT" locationCode="01" channelCode="ENE"></waveformID>
+        <onset>impulsive</onset>
+        <phaseHint>S</phaseHint>
+        <evaluationMode>manual</evaluationMode>
+      </pick>
+      <pick publicID="smi:local/4f4e11bb-f3ae-4307-b3e1-ce329e3d0658">
+        <time>
+          <value>2020-03-18T13:09:34.130000Z</value>
+          <uncertainty>0.0</uncertainty>
+        </time>
+        <waveformID networkCode="UU" stationCode="FTT" locationCode="01" channelCode="ENZ"></waveformID>
+        <onset>impulsive</onset>
+        <phaseHint>P</phaseHint>
+      </pick>
+      <pick publicID="smi:local/4923f166-51cd-4527-bcfd-88caa8173158">
+        <time>
+          <value>2020-03-18T13:09:33.950000Z</value>
+          <uncertainty>0.0</uncertainty>
+        </time>
+        <waveformID networkCode="UU" stationCode="ICF" locationCode="01" channelCode="ENZ"></waveformID>
+        <onset>impulsive</onset>
+        <phaseHint>P</phaseHint>
+      </pick>
+      <pick publicID="smi:local/0363639d-11ce-4ac1-a6a7-a922ed28792d">
+        <time>
+          <value>2020-03-18T13:09:35.490000Z</value>
+          <uncertainty>0.0</uncertainty>
+        </time>
+        <waveformID networkCode="UU" stationCode="LKC" locationCode="01" channelCode="ENN"></waveformID>
+        <onset>impulsive</onset>
+        <phaseHint>S</phaseHint>
+        <evaluationMode>manual</evaluationMode>
+      </pick>
+      <pick publicID="smi:local/c9ede576-d5bf-40fa-a90a-46b73446b400">
+        <time>
+          <value>2020-03-18T13:09:33.840000Z</value>
+          <uncertainty>0.0</uncertainty>
+        </time>
+        <waveformID networkCode="UU" stationCode="LKC" locationCode="01" channelCode="ENZ"></waveformID>
+        <onset>impulsive</onset>
+        <phaseHint>P</phaseHint>
+        <evaluationMode>manual</evaluationMode>
+      </pick>
+      <pick publicID="smi:local/986f092f-5ef6-44ad-bec3-3b27206dde35">
+        <time>
+          <value>2020-03-18T13:09:34.470398Z</value>
+          <uncertainty>0.011115312576293945</uncertainty>
+        </time>
+        <waveformID networkCode="UU" stationCode="NOQ" locationCode="01" channelCode="HHZ"></waveformID>
+        <phaseHint>P</phaseHint>
+        <polarity>negative</polarity>
+        <evaluationMode>manual</evaluationMode>
+      </pick>
+      <pick publicID="smi:local/718b7c56-5cd5-4f33-a1d7-19cfa221cd9c">
+        <time>
+          <value>2020-03-18T13:09:34.751174Z</value>
+          <uncertainty>0.021981477737426758</uncertainty>
+        </time>
+        <waveformID networkCode="UU" stationCode="SAIU" locationCode="01" channelCode="ENZ"></waveformID>
+        <phaseHint>P</phaseHint>
+        <evaluationMode>manual</evaluationMode>
+      </pick>
+      <pick publicID="smi:local/32183e4a-1322-42aa-990b-86dedf343608">
+        <time>
+          <value>2020-03-18T13:09:37.378357Z</value>
+          <uncertainty>0.021243572235107422</uncertainty>
+        </time>
+        <waveformID networkCode="UU" stationCode="SAIU" locationCode="01" channelCode="ENN"></waveformID>
+        <phaseHint>S</phaseHint>
+        <evaluationMode>manual</evaluationMode>
+      </pick>
+      <amplitude publicID="smi:local/78c46870-e15f-4028-b103-b51ee27ac53f">
+        <genericAmplitude/>
+        <type>S</type>
+        <timeWindow>
+          <reference>2020-03-18T13:09:35.910128Z</reference>
+          <begin>0.0</begin>
+          <end>0.3688082695007324</end>
+        </timeWindow>
+        <pickID>smi:local/e85fc4f3-f6d5-46ab-a286-3fb0a465fcbe</pickID>
+      </amplitude>
+      <amplitude publicID="smi:local/602b09fc-2112-4d15-86c6-869d752d14c9">
+        <genericAmplitude/>
+        <type>S</type>
+        <timeWindow>
+          <reference>2020-03-18T13:09:35.490000Z</reference>
+          <begin>0.0</begin>
+          <end>0.4670753479003906</end>
+        </timeWindow>
+        <pickID>smi:local/0363639d-11ce-4ac1-a6a7-a922ed28792d</pickID>
+      </amplitude>
+      <amplitude publicID="smi:local/910e68ea-c120-4a04-aadf-06919070784f">
+        <genericAmplitude/>
+        <type>P</type>
+        <timeWindow>
+          <reference>2020-03-18T13:09:33.840000Z</reference>
+          <begin>0.0</begin>
+          <end>0.2099168300628662</end>
+        </timeWindow>
+        <pickID>smi:local/c9ede576-d5bf-40fa-a90a-46b73446b400</pickID>
+      </amplitude>
+      <amplitude publicID="smi:local/b896c715-0c24-4fe3-a61a-109e0c02bb66">
+        <genericAmplitude/>
+        <type>P</type>
+        <timeWindow>
+          <reference>2020-03-18T13:09:34.470398Z</reference>
+          <begin>0.0</begin>
+          <end>0.1794452667236328</end>
+        </timeWindow>
+        <pickID>smi:local/986f092f-5ef6-44ad-bec3-3b27206dde35</pickID>
+      </amplitude>
+      <amplitude publicID="smi:local/ed237645-d627-40eb-9fdb-848ab3d5a263">
+        <genericAmplitude/>
+        <type>P</type>
+        <timeWindow>
+          <reference>2020-03-18T13:09:34.751174Z</reference>
+          <begin>0.0</begin>
+          <end>0.17035627365112305</end>
+        </timeWindow>
+        <pickID>smi:local/718b7c56-5cd5-4f33-a1d7-19cfa221cd9c</pickID>
+      </amplitude>
+      <amplitude publicID="smi:local/92e34371-1de3-4215-a9e6-4923bf872b73">
+        <genericAmplitude/>
+        <type>S</type>
+        <timeWindow>
+          <reference>2020-03-18T13:09:37.378357Z</reference>
+          <begin>0.0</begin>
+          <end>0.283247709274292</end>
+        </timeWindow>
+        <pickID>smi:local/32183e4a-1322-42aa-990b-86dedf343608</pickID>
+      </amplitude>
+    </event>
+    <event publicID="smi:local/dff82d98-d8e9-4f0b-912f-f7a6e29076e9">
+      <preferredOriginID>smi:local/906a8e7a-90da-4228-ac5c-c9a918e3c5bc</preferredOriginID>
+      <description>
+        <text>LR</text>
+      </description>
+      <origin publicID="smi:local/906a8e7a-90da-4228-ac5c-c9a918e3c5bc">
+        <time>
+          <value>2020-03-18T13:10:08.210000Z</value>
+        </time>
+        <latitude>
+          <value>40.747</value>
+        </latitude>
+        <longitude>
+          <value>112.08133333333333</value>
+        </longitude>
+        <depth>
+          <value>8530.0</value>
+        </depth>
+      </origin>
+      <pick publicID="smi:local/ac4f850d-7ede-4ec1-acdf-9797775f1241">
+        <time>
+          <value>2020-03-18T13:10:12.051746Z</value>
+          <uncertainty>0.03808331489562988</uncertainty>
+        </time>
+        <waveformID networkCode="UU" stationCode="FTT" locationCode="01" channelCode="ENN"></waveformID>
+        <onset>impulsive</onset>
+        <phaseHint>S</phaseHint>
+        <evaluationMode>manual</evaluationMode>
+      </pick>
+      <pick publicID="smi:local/d76fe420-1f73-4860-8e29-e6f4c49dbff5">
+        <time>
+          <value>2020-03-18T13:10:10.227576Z</value>
+          <uncertainty>0.02923297882080078</uncertainty>
+        </time>
+        <waveformID networkCode="UU" stationCode="FTT" locationCode="01" channelCode="ENZ"></waveformID>
+        <onset>impulsive</onset>
+        <phaseHint>P</phaseHint>
+        <evaluationMode>manual</evaluationMode>
+      </pick>
+      <pick publicID="smi:local/f3f1813d-a63f-4de3-bea0-78db8792c5e6">
+        <time>
+          <value>2020-03-18T13:10:11.680000Z</value>
+          <uncertainty>0.0</uncertainty>
+        </time>
+        <waveformID networkCode="UU" stationCode="ICF" locationCode="01" channelCode="ENN"></waveformID>
+        <onset>impulsive</onset>
+        <phaseHint>S</phaseHint>
+        <evaluationMode>manual</evaluationMode>
+      </pick>
+      <pick publicID="smi:local/3241dd30-7348-4e4e-aa29-81e6bb8e30c3">
+        <time>
+          <value>2020-03-18T13:10:11.383284Z</value>
+          <uncertainty>0.013187885284423828</uncertainty>
+        </time>
+        <waveformID networkCode="UU" stationCode="LKC" locationCode="01" channelCode="ENN"></waveformID>
+        <onset>impulsive</onset>
+        <phaseHint>S</phaseHint>
+        <evaluationMode>manual</evaluationMode>
+      </pick>
+      <pick publicID="smi:local/ea006ccd-01d4-4184-b326-295b2ada7763">
+        <time>
+          <value>2020-03-18T13:10:09.863720Z</value>
+          <uncertainty>0.00418400764465332</uncertainty>
+        </time>
+        <waveformID networkCode="UU" stationCode="LKC" locationCode="01" channelCode="ENZ"></waveformID>
+        <onset>impulsive</onset>
+        <phaseHint>P</phaseHint>
+        <polarity>negative</polarity>
+        <evaluationMode>manual</evaluationMode>
+      </pick>
+      <pick publicID="smi:local/eea3f608-414e-43d9-abbd-b5cf7ea1de18">
+        <time>
+          <value>2020-03-18T13:10:11.373266Z</value>
+          <uncertainty>0.003110647201538086</uncertainty>
+        </time>
+        <waveformID networkCode="UU" stationCode="SAIU" locationCode="01" channelCode="ENZ"></waveformID>
+        <phaseHint>P</phaseHint>
+        <polarity>negative</polarity>
+        <evaluationMode>manual</evaluationMode>
+      </pick>
+      <pick publicID="smi:local/3fb9c49c-da11-4ea3-b973-0f12f154ffce">
+        <time>
+          <value>2020-03-18T13:10:13.382351Z</value>
+          <uncertainty>0.021282196044921875</uncertainty>
+        </time>
+        <waveformID networkCode="UU" stationCode="SAIU" locationCode="01" channelCode="ENN"></waveformID>
+        <phaseHint>S</phaseHint>
+        <evaluationMode>manual</evaluationMode>
+      </pick>
+      <amplitude publicID="smi:local/26713b08-509f-4e50-b038-cf395702e0a1">
+        <genericAmplitude/>
+        <type>S</type>
+        <timeWindow>
+          <reference>2020-03-18T13:10:12.051746Z</reference>
+          <begin>0.0</begin>
+          <end>0.253889799118042</end>
+        </timeWindow>
+        <pickID>smi:local/ac4f850d-7ede-4ec1-acdf-9797775f1241</pickID>
+      </amplitude>
+      <amplitude publicID="smi:local/fc995e67-8498-4b5c-8071-408ec7b3f0c9">
+        <genericAmplitude/>
+        <type>P</type>
+        <timeWindow>
+          <reference>2020-03-18T13:10:10.227576Z</reference>
+          <begin>0.0</begin>
+          <end>0.296506404876709</end>
+        </timeWindow>
+        <pickID>smi:local/d76fe420-1f73-4860-8e29-e6f4c49dbff5</pickID>
+      </amplitude>
+      <amplitude publicID="smi:local/68c4d66e-f60d-43f9-ad74-37644d9c0b96">
+        <genericAmplitude/>
+        <type>S</type>
+        <timeWindow>
+          <reference>2020-03-18T13:10:11.680000Z</reference>
+          <begin>0.0</begin>
+          <end>0.2434232234954834</end>
+        </timeWindow>
+        <pickID>smi:local/f3f1813d-a63f-4de3-bea0-78db8792c5e6</pickID>
+      </amplitude>
+      <amplitude publicID="smi:local/a8b9320e-b480-45ad-a642-f1b19b6fc421">
+        <genericAmplitude/>
+        <type>S</type>
+        <timeWindow>
+          <reference>2020-03-18T13:10:11.383284Z</reference>
+          <begin>0.0</begin>
+          <end>0.23173236846923828</end>
+        </timeWindow>
+        <pickID>smi:local/3241dd30-7348-4e4e-aa29-81e6bb8e30c3</pickID>
+      </amplitude>
+      <amplitude publicID="smi:local/1889b7c2-e7e1-4484-a324-76a4b41a7273">
+        <genericAmplitude/>
+        <type>P</type>
+        <timeWindow>
+          <reference>2020-03-18T13:10:09.863720Z</reference>
+          <begin>0.0</begin>
+          <end>0.11157727241516113</end>
+        </timeWindow>
+        <pickID>smi:local/ea006ccd-01d4-4184-b326-295b2ada7763</pickID>
+      </amplitude>
+      <amplitude publicID="smi:local/ef69d9ce-86bb-4db2-9d2f-cdd66070a135">
+        <genericAmplitude/>
+        <type>P</type>
+        <timeWindow>
+          <reference>2020-03-18T13:10:11.373266Z</reference>
+          <begin>0.0</begin>
+          <end>0.1608138084411621</end>
+        </timeWindow>
+        <pickID>smi:local/eea3f608-414e-43d9-abbd-b5cf7ea1de18</pickID>
+      </amplitude>
+      <amplitude publicID="smi:local/a0b7c867-0329-4dbf-ab30-41ff2002c55e">
+        <genericAmplitude/>
+        <type>S</type>
+        <timeWindow>
+          <reference>2020-03-18T13:10:13.382351Z</reference>
+          <begin>0.0</begin>
+          <end>0.3032715320587158</end>
+        </timeWindow>
+        <pickID>smi:local/3fb9c49c-da11-4ea3-b973-0f12f154ffce</pickID>
+      </amplitude>
+    </event>
+    <event publicID="smi:local/0e4adc68-fc16-438e-bfd6-47f4fc0ba1b9">
+      <preferredOriginID>smi:local/6bb3b45e-a65d-4e12-93ed-b7be356ecb9f</preferredOriginID>
+      <description>
+        <text>LR</text>
+      </description>
+      <origin publicID="smi:local/6bb3b45e-a65d-4e12-93ed-b7be356ecb9f">
+        <time>
+          <value>2020-03-18T13:10:16.960000Z</value>
+        </time>
+        <latitude>
+          <value>40.7475</value>
+        </latitude>
+        <longitude>
+          <value>112.08016666666667</value>
+        </longitude>
+        <depth>
+          <value>6940.0</value>
+        </depth>
+      </origin>
+      <pick publicID="smi:local/2bf2c645-811d-4839-a990-70be315559f2">
+        <time>
+          <value>2020-03-18T13:10:20.510583Z</value>
+          <uncertainty>0.011716365814208984</uncertainty>
+        </time>
+        <waveformID networkCode="UU" stationCode="FTT" locationCode="01" channelCode="ENN"></waveformID>
+        <onset>impulsive</onset>
+        <phaseHint>S</phaseHint>
+        <evaluationMode>manual</evaluationMode>
+      </pick>
+      <pick publicID="smi:local/a620776d-7de3-400c-a94f-b4a88a103f33">
+        <time>
+          <value>2020-03-18T13:10:18.911647Z</value>
+          <uncertainty>0.0011017322540283203</uncertainty>
+        </time>
+        <waveformID networkCode="UU" stationCode="FTT" locationCode="01" channelCode="ENZ"></waveformID>
+        <onset>impulsive</onset>
+        <phaseHint>P</phaseHint>
+        <polarity>negative</polarity>
+        <evaluationMode>manual</evaluationMode>
+      </pick>
+      <pick publicID="smi:local/01cd23e2-238f-4c8c-a80e-6c0bf32d5f40">
+        <time>
+          <value>2020-03-18T13:10:20.418006Z</value>
+          <uncertainty>0.02566671371459961</uncertainty>
+        </time>
+        <waveformID networkCode="UU" stationCode="ICF" locationCode="01" channelCode="ENN"></waveformID>
+        <onset>impulsive</onset>
+        <phaseHint>S</phaseHint>
+        <evaluationMode>manual</evaluationMode>
+      </pick>
+      <pick publicID="smi:local/4a789ce1-c6a2-48a2-b1be-799d2503b96b">
+        <time>
+          <value>2020-03-18T13:10:19.060000Z</value>
+          <uncertainty>0.0</uncertainty>
+        </time>
+        <waveformID networkCode="UU" stationCode="ICF" locationCode="01" channelCode="ENZ"></waveformID>
+        <onset>impulsive</onset>
+        <phaseHint>P</phaseHint>
+      </pick>
+      <pick publicID="smi:local/c0d19644-51fc-49f0-8490-45c5efa83d25">
+        <time>
+          <value>2020-03-18T13:10:18.566180Z</value>
+          <uncertainty>0.03320813179016113</uncertainty>
+        </time>
+        <waveformID networkCode="UU" stationCode="LKC" locationCode="01" channelCode="ENZ"></waveformID>
+        <onset>impulsive</onset>
+        <phaseHint>P</phaseHint>
+        <polarity>negative</polarity>
+        <evaluationMode>manual</evaluationMode>
+      </pick>
+      <pick publicID="smi:local/3e4d45b6-d815-4276-b109-4b847521c3d0">
+        <time>
+          <value>2020-03-18T13:10:21.415608Z</value>
+          <uncertainty>0.018224239349365234</uncertainty>
+        </time>
+        <waveformID networkCode="UU" stationCode="NOQ" locationCode="01" channelCode="HHN"></waveformID>
+        <onset>impulsive</onset>
+        <phaseHint>S</phaseHint>
+        <polarity>negative</polarity>
+        <evaluationMode>manual</evaluationMode>
+      </pick>
+      <pick publicID="smi:local/392401b3-ae0c-4bf9-bf30-8d8d9eec3033">
+        <time>
+          <value>2020-03-18T13:10:19.921207Z</value>
+          <uncertainty>0.012314081192016602</uncertainty>
+        </time>
+        <waveformID networkCode="UU" stationCode="SAIU" locationCode="01" channelCode="ENZ"></waveformID>
+        <phaseHint>P</phaseHint>
+        <polarity>negative</polarity>
+        <evaluationMode>manual</evaluationMode>
+      </pick>
+      <pick publicID="smi:local/218aeec6-31f7-4bd2-b71a-e30cbe2bca5e">
+        <time>
+          <value>2020-03-18T13:10:22.117121Z</value>
+          <uncertainty>0.014938592910766602</uncertainty>
+        </time>
+        <waveformID networkCode="UU" stationCode="SAIU" locationCode="01" channelCode="ENN"></waveformID>
+        <phaseHint>S</phaseHint>
+        <evaluationMode>manual</evaluationMode>
+      </pick>
+      <pick publicID="smi:local/13ef6143-1f55-41ab-b9e8-b446a81b6025">
+        <time>
+          <value>2020-03-18T13:10:20.057026Z</value>
+          <uncertainty>0.017495393753051758</uncertainty>
+        </time>
+        <waveformID networkCode="UU" stationCode="LKC" locationCode="01" channelCode="ENN"></waveformID>
+        <phaseHint>S</phaseHint>
+        <evaluationMode>manual</evaluationMode>
+      </pick>
+      <amplitude publicID="smi:local/72d96f11-608d-4d18-a97e-b8080b58372d">
+        <genericAmplitude/>
+        <type>S</type>
+        <timeWindow>
+          <reference>2020-03-18T13:10:20.510583Z</reference>
+          <begin>0.0</begin>
+          <end>0.22729969024658203</end>
+        </timeWindow>
+        <pickID>smi:local/2bf2c645-811d-4839-a990-70be315559f2</pickID>
+      </amplitude>
+      <amplitude publicID="smi:local/d50b557e-ad39-4e42-965d-3e0622ed4bb0">
+        <genericAmplitude/>
+        <type>P</type>
+        <timeWindow>
+          <reference>2020-03-18T13:10:18.911647Z</reference>
+          <begin>0.0</begin>
+          <end>0.19389653205871582</end>
+        </timeWindow>
+        <pickID>smi:local/a620776d-7de3-400c-a94f-b4a88a103f33</pickID>
+      </amplitude>
+      <amplitude publicID="smi:local/b25a3cf0-9b05-46f7-a423-b5b5d7ffcb59">
+        <genericAmplitude/>
+        <type>S</type>
+        <timeWindow>
+          <reference>2020-03-18T13:10:20.418006Z</reference>
+          <begin>0.0</begin>
+          <end>0.5133340358734131</end>
+        </timeWindow>
+        <pickID>smi:local/01cd23e2-238f-4c8c-a80e-6c0bf32d5f40</pickID>
+      </amplitude>
+      <amplitude publicID="smi:local/84ed24be-fe61-46eb-8448-b51e99f1ff4a">
+        <genericAmplitude/>
+        <type>P</type>
+        <timeWindow>
+          <reference>2020-03-18T13:10:18.566180Z</reference>
+          <begin>0.0</begin>
+          <end>0.17341971397399902</end>
+        </timeWindow>
+        <pickID>smi:local/c0d19644-51fc-49f0-8490-45c5efa83d25</pickID>
+      </amplitude>
+      <amplitude publicID="smi:local/80994421-e95c-47e6-85ec-0ff5827b3a7f">
+        <genericAmplitude/>
+        <type>S</type>
+        <timeWindow>
+          <reference>2020-03-18T13:10:21.415608Z</reference>
+          <begin>0.0</begin>
+          <end>0.2156534194946289</end>
+        </timeWindow>
+        <pickID>smi:local/3e4d45b6-d815-4276-b109-4b847521c3d0</pickID>
+      </amplitude>
+      <amplitude publicID="smi:local/bc64e4f6-fdb0-4d0c-b180-bebaaa46761a">
+        <genericAmplitude/>
+        <type>P</type>
+        <timeWindow>
+          <reference>2020-03-18T13:10:19.921207Z</reference>
+          <begin>0.0</begin>
+          <end>0.2154991626739502</end>
+        </timeWindow>
+        <pickID>smi:local/392401b3-ae0c-4bf9-bf30-8d8d9eec3033</pickID>
+      </amplitude>
+      <amplitude publicID="smi:local/32eba392-8c80-40c7-af27-33a2e065d628">
+        <genericAmplitude/>
+        <type>S</type>
+        <timeWindow>
+          <reference>2020-03-18T13:10:22.117121Z</reference>
+          <begin>0.0</begin>
+          <end>0.17926478385925293</end>
+        </timeWindow>
+        <pickID>smi:local/218aeec6-31f7-4bd2-b71a-e30cbe2bca5e</pickID>
+      </amplitude>
+      <amplitude publicID="smi:local/3f30277c-06cd-4e9f-a64c-98bffa89d392">
+        <genericAmplitude/>
+        <type>S</type>
+        <timeWindow>
+          <reference>2020-03-18T13:10:20.057026Z</reference>
+          <begin>0.0</begin>
+          <end>0.290424108505249</end>
+        </timeWindow>
+        <pickID>smi:local/13ef6143-1f55-41ab-b9e8-b446a81b6025</pickID>
+      </amplitude>
+    </event>
+    <event publicID="smi:local/1ecf2b57-4ae0-4e6f-9a8a-92df66d974cb">
+      <preferredOriginID>smi:local/3e5a35d6-00af-43ff-b14c-dae7bbe392f9</preferredOriginID>
+      <description>
+        <text>LR</text>
+      </description>
+      <origin publicID="smi:local/3e5a35d6-00af-43ff-b14c-dae7bbe392f9">
+        <time>
+          <value>2020-03-18T13:14:05.960000Z</value>
+        </time>
+        <latitude>
+          <value>40.7475</value>
+        </latitude>
+        <longitude>
+          <value>112.076</value>
+        </longitude>
+        <depth>
+          <value>9350.0</value>
+        </depth>
+      </origin>
+      <pick publicID="smi:local/a59ed831-1b35-4183-8b23-b5a270135f90">
+        <time>
+          <value>2020-03-18T13:14:09.990000Z</value>
+          <uncertainty>0.0</uncertainty>
+        </time>
+        <waveformID networkCode="UU" stationCode="FTT" locationCode="01" channelCode="ENE"></waveformID>
+        <onset>emergent</onset>
+        <phaseHint>S</phaseHint>
+      </pick>
+      <pick publicID="smi:local/1605a793-8526-4f78-abee-9491018f4cf9">
+        <time>
+          <value>2020-03-18T13:14:08.310000Z</value>
+          <uncertainty>0.0</uncertainty>
+        </time>
+        <waveformID networkCode="UU" stationCode="FTT" locationCode="01" channelCode="ENZ"></waveformID>
+        <onset>impulsive</onset>
+        <phaseHint>P</phaseHint>
+      </pick>
+      <pick publicID="smi:local/0c689080-a6cc-41a2-880f-471366777f71">
+        <time>
+          <value>2020-03-18T13:14:10.831278Z</value>
+          <uncertainty>0.013462305068969727</uncertainty>
+        </time>
+        <waveformID networkCode="UU" stationCode="NOQ" locationCode="01" channelCode="HHN"></waveformID>
+        <onset>emergent</onset>
+        <phaseHint>S</phaseHint>
+        <evaluationMode>manual</evaluationMode>
+      </pick>
+      <pick publicID="smi:local/ff02385f-18c2-49ee-9520-07ac5e1f246c">
+        <time>
+          <value>2020-03-18T13:14:08.839783Z</value>
+          <uncertainty>0.016486167907714844</uncertainty>
+        </time>
+        <waveformID networkCode="UU" stationCode="NOQ" locationCode="01" channelCode="HHZ"></waveformID>
+        <onset>impulsive</onset>
+        <phaseHint>P</phaseHint>
+        <polarity>positive</polarity>
+        <evaluationMode>manual</evaluationMode>
+      </pick>
+      <pick publicID="smi:local/44dd6f7c-80a3-40dc-836a-d31d4647580f">
+        <time>
+          <value>2020-03-18T13:14:09.243137Z</value>
+          <uncertainty>0.009047508239746094</uncertainty>
+        </time>
+        <waveformID networkCode="UU" stationCode="SAIU" locationCode="01" channelCode="ENZ"></waveformID>
+        <phaseHint>P</phaseHint>
+        <polarity>negative</polarity>
+        <evaluationMode>manual</evaluationMode>
+      </pick>
+      <pick publicID="smi:local/44d9237f-3df2-40ee-a333-ce8b03f25f8a">
+        <time>
+          <value>2020-03-18T13:14:11.343170Z</value>
+          <uncertainty>0.016597747802734375</uncertainty>
+        </time>
+        <waveformID networkCode="UU" stationCode="SAIU" locationCode="01" channelCode="ENE"></waveformID>
+        <phaseHint>S</phaseHint>
+        <evaluationMode>manual</evaluationMode>
+      </pick>
+      <pick publicID="smi:local/c312431f-231e-4db0-8a7b-bd9ab62373fa">
+        <time>
+          <value>2020-03-18T13:14:07.896253Z</value>
+          <uncertainty>0.03119182586669922</uncertainty>
+        </time>
+        <waveformID networkCode="UU" stationCode="LKC" locationCode="01" channelCode="ENZ"></waveformID>
+        <phaseHint>P</phaseHint>
+        <evaluationMode>manual</evaluationMode>
+      </pick>
+      <pick publicID="smi:local/8ac5f27c-2ce7-403c-9f17-437b1a426e94">
+        <time>
+          <value>2020-03-18T13:14:09.942778Z</value>
+          <uncertainty>0.02093982696533203</uncertainty>
+        </time>
+        <waveformID networkCode="UU" stationCode="ICF" locationCode="01" channelCode="ENN"></waveformID>
+        <phaseHint>S</phaseHint>
+        <evaluationMode>manual</evaluationMode>
+      </pick>
+      <amplitude publicID="smi:local/a154b330-b2db-444e-9180-e3d4d3a9957c">
+        <genericAmplitude/>
+        <type>S</type>
+        <timeWindow>
+          <reference>2020-03-18T13:14:10.831278Z</reference>
+          <begin>0.0</begin>
+          <end>0.1844344139099121</end>
+        </timeWindow>
+        <pickID>smi:local/0c689080-a6cc-41a2-880f-471366777f71</pickID>
+      </amplitude>
+      <amplitude publicID="smi:local/81c372d8-538b-48f3-a696-b6e3afc5f65c">
+        <genericAmplitude/>
+        <type>P</type>
+        <timeWindow>
+          <reference>2020-03-18T13:14:08.839783Z</reference>
+          <begin>0.0</begin>
+          <end>0.24454331398010254</end>
+        </timeWindow>
+        <pickID>smi:local/ff02385f-18c2-49ee-9520-07ac5e1f246c</pickID>
+      </amplitude>
+      <amplitude publicID="smi:local/41370cd0-9705-4e2f-aab0-6a60c39d34b8">
+        <genericAmplitude/>
+        <type>P</type>
+        <timeWindow>
+          <reference>2020-03-18T13:14:09.243137Z</reference>
+          <begin>0.0</begin>
+          <end>0.13797259330749512</end>
+        </timeWindow>
+        <pickID>smi:local/44dd6f7c-80a3-40dc-836a-d31d4647580f</pickID>
+      </amplitude>
+      <amplitude publicID="smi:local/6006353e-4bab-4fb0-bb23-dad81254b030">
+        <genericAmplitude/>
+        <type>S</type>
+        <timeWindow>
+          <reference>2020-03-18T13:14:11.343170Z</reference>
+          <begin>0.0</begin>
+          <end>0.2418513298034668</end>
+        </timeWindow>
+        <pickID>smi:local/44d9237f-3df2-40ee-a333-ce8b03f25f8a</pickID>
+      </amplitude>
+      <amplitude publicID="smi:local/d7a31473-cf5c-41eb-8a02-07bc49812ede">
+        <genericAmplitude/>
+        <type>P</type>
+        <timeWindow>
+          <reference>2020-03-18T13:14:07.896253Z</reference>
+          <begin>0.0</begin>
+          <end>0.12476754188537598</end>
+        </timeWindow>
+        <pickID>smi:local/c312431f-231e-4db0-8a7b-bd9ab62373fa</pickID>
+      </amplitude>
+      <amplitude publicID="smi:local/8b8c9d65-2a59-483b-965e-f9a45e14d0f6">
+        <genericAmplitude/>
+        <type>S</type>
+        <timeWindow>
+          <reference>2020-03-18T13:14:09.942778Z</reference>
+          <begin>0.0</begin>
+          <end>0.34201717376708984</end>
+        </timeWindow>
+        <pickID>smi:local/8ac5f27c-2ce7-403c-9f17-437b1a426e94</pickID>
+      </amplitude>
+    </event>
+    <event publicID="smi:local/ac312150-173c-41b4-a391-487b04bcf3c3">
+      <preferredOriginID>smi:local/45ed0bc4-9675-449f-a198-0d9829a129ab</preferredOriginID>
+      <description>
+        <text>LR</text>
+      </description>
+      <origin publicID="smi:local/45ed0bc4-9675-449f-a198-0d9829a129ab">
+        <time>
+          <value>2020-03-18T13:14:21.540000Z</value>
+        </time>
+        <latitude>
+          <value>40.754666666666665</value>
+        </latitude>
+        <longitude>
+          <value>112.05916666666667</value>
+        </longitude>
+        <depth>
+          <value>8060.000000000001</value>
+        </depth>
+      </origin>
+      <pick publicID="smi:local/0bef2b4a-af87-45a0-8504-c8278eb2a9e3">
+        <time>
+          <value>2020-03-18T13:14:25.560237Z</value>
+          <uncertainty>0.021622657775878906</uncertainty>
+        </time>
+        <waveformID networkCode="UU" stationCode="FTT" locationCode="01" channelCode="ENE"></waveformID>
+        <onset>impulsive</onset>
+        <phaseHint>S</phaseHint>
+        <evaluationMode>manual</evaluationMode>
+      </pick>
+      <pick publicID="smi:local/af6c67f0-0563-43d9-9f83-0da3918e92b3">
+        <time>
+          <value>2020-03-18T13:14:23.817269Z</value>
+          <uncertainty>0.010234594345092773</uncertainty>
+        </time>
+        <waveformID networkCode="UU" stationCode="FTT" locationCode="01" channelCode="ENZ"></waveformID>
+        <onset>impulsive</onset>
+        <phaseHint>P</phaseHint>
+        <polarity>positive</polarity>
+        <evaluationMode>manual</evaluationMode>
+      </pick>
+      <pick publicID="smi:local/20ef62c3-a747-4730-b2ec-95c1360b38cf">
+        <time>
+          <value>2020-03-18T13:14:23.435132Z</value>
+          <uncertainty>0.008517742156982422</uncertainty>
+        </time>
+        <waveformID networkCode="UU" stationCode="ICF" locationCode="01" channelCode="ENZ"></waveformID>
+        <onset>impulsive</onset>
+        <phaseHint>P</phaseHint>
+        <polarity>negative</polarity>
+        <evaluationMode>manual</evaluationMode>
+      </pick>
+      <pick publicID="smi:local/d291d765-8f31-47ba-848d-dc1da2b5687f">
+        <time>
+          <value>2020-03-18T13:14:24.890449Z</value>
+          <uncertainty>0.010665655136108398</uncertainty>
+        </time>
+        <waveformID networkCode="UU" stationCode="LKC" locationCode="01" channelCode="ENN"></waveformID>
+        <onset>impulsive</onset>
+        <phaseHint>S</phaseHint>
+        <evaluationMode>manual</evaluationMode>
+      </pick>
+      <pick publicID="smi:local/5afb4f46-a34b-4c59-8c62-ea189a321535">
+        <time>
+          <value>2020-03-18T13:14:23.438607Z</value>
+          <uncertainty>0.00609135627746582</uncertainty>
+        </time>
+        <waveformID networkCode="UU" stationCode="LKC" locationCode="01" channelCode="ENZ"></waveformID>
+        <onset>impulsive</onset>
+        <phaseHint>P</phaseHint>
+        <polarity>negative</polarity>
+        <evaluationMode>manual</evaluationMode>
+      </pick>
+      <pick publicID="smi:local/773fad3e-87bd-4a3f-a9c9-5c7247ca392b">
+        <time>
+          <value>2020-03-18T13:14:24.435381Z</value>
+          <uncertainty>0.016493797302246094</uncertainty>
+        </time>
+        <waveformID networkCode="UU" stationCode="NOQ" locationCode="01" channelCode="HHZ"></waveformID>
+        <onset>impulsive</onset>
+        <phaseHint>P</phaseHint>
+        <polarity>positive</polarity>
+        <evaluationMode>manual</evaluationMode>
+      </pick>
+      <pick publicID="smi:local/77ab7a55-0ef8-4ba7-a382-62eb28cb53c6">
+        <time>
+          <value>2020-03-18T13:14:26.411902Z</value>
+          <uncertainty>0.017429828643798828</uncertainty>
+        </time>
+        <waveformID networkCode="UU" stationCode="NOQ" locationCode="01" channelCode="HHE"></waveformID>
+        <phaseHint>S</phaseHint>
+        <evaluationMode>manual</evaluationMode>
+      </pick>
+      <pick publicID="smi:local/25f63082-9a42-485d-943f-d6da7c468e14">
+        <time>
+          <value>2020-03-18T13:14:24.721167Z</value>
+          <uncertainty>0.004077911376953125</uncertainty>
+        </time>
+        <waveformID networkCode="UU" stationCode="SAIU" locationCode="01" channelCode="ENZ"></waveformID>
+        <phaseHint>P</phaseHint>
+        <polarity>positive</polarity>
+        <evaluationMode>manual</evaluationMode>
+      </pick>
+      <amplitude publicID="smi:local/1f8477d2-a888-4cf4-9826-43b2c4d2a898">
+        <genericAmplitude/>
+        <type>S</type>
+        <timeWindow>
+          <reference>2020-03-18T13:14:25.560237Z</reference>
+          <begin>0.0</begin>
+          <end>0.40001940727233887</end>
+        </timeWindow>
+        <pickID>smi:local/0bef2b4a-af87-45a0-8504-c8278eb2a9e3</pickID>
+      </amplitude>
+      <amplitude publicID="smi:local/7b9ee6ae-f280-42a2-9ca5-929a38575a45">
+        <genericAmplitude/>
+        <type>P</type>
+        <timeWindow>
+          <reference>2020-03-18T13:14:23.817269Z</reference>
+          <begin>0.0</begin>
+          <end>0.24416756629943848</end>
+        </timeWindow>
+        <pickID>smi:local/af6c67f0-0563-43d9-9f83-0da3918e92b3</pickID>
+      </amplitude>
+      <amplitude publicID="smi:local/9148cbb7-3e06-4696-a536-cac7599c947a">
+        <genericAmplitude/>
+        <type>P</type>
+        <timeWindow>
+          <reference>2020-03-18T13:14:23.435132Z</reference>
+          <begin>0.0</begin>
+          <end>0.17745065689086914</end>
+        </timeWindow>
+        <pickID>smi:local/20ef62c3-a747-4730-b2ec-95c1360b38cf</pickID>
+      </amplitude>
+      <amplitude publicID="smi:local/ba389ad4-fd3f-47df-a7c4-173986726e6d">
+        <genericAmplitude/>
+        <type>S</type>
+        <timeWindow>
+          <reference>2020-03-18T13:14:24.890449Z</reference>
+          <begin>0.0</begin>
+          <end>0.2635979652404785</end>
+        </timeWindow>
+        <pickID>smi:local/d291d765-8f31-47ba-848d-dc1da2b5687f</pickID>
+      </amplitude>
+      <amplitude publicID="smi:local/9ba64c89-c819-4a66-9480-d578f8728326">
+        <genericAmplitude/>
+        <type>P</type>
+        <timeWindow>
+          <reference>2020-03-18T13:14:23.438607Z</reference>
+          <begin>0.0</begin>
+          <end>0.1435863971710205</end>
+        </timeWindow>
+        <pickID>smi:local/5afb4f46-a34b-4c59-8c62-ea189a321535</pickID>
+      </amplitude>
+      <amplitude publicID="smi:local/6aeacbd3-e8d2-4c00-8376-dbc75775a814">
+        <genericAmplitude/>
+        <type>P</type>
+        <timeWindow>
+          <reference>2020-03-18T13:14:24.435381Z</reference>
+          <begin>0.0</begin>
+          <end>0.3001847267150879</end>
+        </timeWindow>
+        <pickID>smi:local/773fad3e-87bd-4a3f-a9c9-5c7247ca392b</pickID>
+      </amplitude>
+      <amplitude publicID="smi:local/d2aef7a6-f8ca-4526-8893-89cc94a2dcba">
+        <genericAmplitude/>
+        <type>S</type>
+        <timeWindow>
+          <reference>2020-03-18T13:14:26.411902Z</reference>
+          <begin>0.0</begin>
+          <end>0.33116865158081055</end>
+        </timeWindow>
+        <pickID>smi:local/77ab7a55-0ef8-4ba7-a382-62eb28cb53c6</pickID>
+      </amplitude>
+      <amplitude publicID="smi:local/854261e2-39ed-4b1b-bbe6-229563ca35af">
+        <genericAmplitude/>
+        <type>P</type>
+        <timeWindow>
+          <reference>2020-03-18T13:14:24.721167Z</reference>
+          <begin>0.0</begin>
+          <end>0.1336379051208496</end>
+        </timeWindow>
+        <pickID>smi:local/25f63082-9a42-485d-943f-d6da7c468e14</pickID>
+      </amplitude>
+    </event>
+    <event publicID="smi:local/1bfa377a-4105-43ab-a4f1-c832cc8a6f12">
+      <preferredOriginID>smi:local/a64923b8-5a1c-4b2a-ac85-1ab34030c323</preferredOriginID>
+      <description>
+        <text>LR</text>
+      </description>
+      <origin publicID="smi:local/a64923b8-5a1c-4b2a-ac85-1ab34030c323">
+        <time>
+          <value>2020-03-18T13:15:11.480000Z</value>
+        </time>
+        <latitude>
+          <value>40.7555</value>
+        </latitude>
+        <longitude>
+          <value>112.05816666666666</value>
+        </longitude>
+        <depth>
+          <value>8940.0</value>
+        </depth>
+      </origin>
+      <pick publicID="smi:local/577ec013-299d-4709-bc1f-8e0ba3701367">
+        <time>
+          <value>2020-03-18T13:15:13.846034Z</value>
+          <uncertainty>0.004126310348510742</uncertainty>
+        </time>
+        <waveformID networkCode="UU" stationCode="FTT" locationCode="01" channelCode="ENZ"></waveformID>
+        <onset>impulsive</onset>
+        <phaseHint>P</phaseHint>
+        <polarity>positive</polarity>
+        <evaluationMode>manual</evaluationMode>
+      </pick>
+      <pick publicID="smi:local/f1ae5c8c-05a8-4b62-b9ad-9afd4680eff0">
+        <time>
+          <value>2020-03-18T13:15:15.210000Z</value>
+          <uncertainty>0.0</uncertainty>
+        </time>
+        <waveformID networkCode="UU" stationCode="ICF" locationCode="01" channelCode="ENE"></waveformID>
+        <onset>impulsive</onset>
+        <phaseHint>S</phaseHint>
+      </pick>
+      <pick publicID="smi:local/85dba4e8-3040-45fc-8658-147c2ae81f56">
+        <time>
+          <value>2020-03-18T13:15:13.413606Z</value>
+          <uncertainty>0.004126310348510742</uncertainty>
+        </time>
+        <waveformID networkCode="UU" stationCode="ICF" locationCode="01" channelCode="ENZ"></waveformID>
+        <onset>impulsive</onset>
+        <phaseHint>P</phaseHint>
+        <polarity>negative</polarity>
+        <evaluationMode>manual</evaluationMode>
+      </pick>
+      <pick publicID="smi:local/59c1bf71-6796-461d-a5da-02ec833aa274">
+        <time>
+          <value>2020-03-18T13:15:14.872809Z</value>
+          <uncertainty>0.005134105682373047</uncertainty>
+        </time>
+        <waveformID networkCode="UU" stationCode="LKC" locationCode="01" channelCode="ENN"></waveformID>
+        <onset>impulsive</onset>
+        <phaseHint>S</phaseHint>
+        <evaluationMode>manual</evaluationMode>
+      </pick>
+      <pick publicID="smi:local/24a9f677-0bf5-4810-b356-0303259c0416">
+        <time>
+          <value>2020-03-18T13:15:13.412056Z</value>
+          <uncertainty>0.006296873092651367</uncertainty>
+        </time>
+        <waveformID networkCode="UU" stationCode="LKC" locationCode="01" channelCode="ENZ"></waveformID>
+        <onset>impulsive</onset>
+        <phaseHint>P</phaseHint>
+        <polarity>negative</polarity>
+        <evaluationMode>manual</evaluationMode>
+      </pick>
+      <pick publicID="smi:local/a25076ec-44a0-4870-9897-28e7e419ef90">
+        <time>
+          <value>2020-03-18T13:15:14.470762Z</value>
+          <uncertainty>0.0</uncertainty>
+        </time>
+        <waveformID networkCode="UU" stationCode="NOQ" locationCode="01" channelCode="HHZ"></waveformID>
+        <onset>impulsive</onset>
+        <phaseHint>P</phaseHint>
+        <polarity>positive</polarity>
+        <evaluationMode>manual</evaluationMode>
+      </pick>
+      <pick publicID="smi:local/c5836c13-fe6b-454e-8a9d-d189b3558aaf">
+        <time>
+          <value>2020-03-18T13:15:14.789080Z</value>
+          <uncertainty>0.004772663116455078</uncertainty>
+        </time>
+        <waveformID networkCode="UU" stationCode="SAIU" locationCode="01" channelCode="ENZ"></waveformID>
+        <phaseHint>P</phaseHint>
+        <evaluationMode>manual</evaluationMode>
+      </pick>
+      <pick publicID="smi:local/a86c0777-4939-40b7-9766-97695edc23b2">
+        <time>
+          <value>2020-03-18T13:15:16.596318Z</value>
+          <uncertainty>0.012542724609375</uncertainty>
+        </time>
+        <waveformID networkCode="UU" stationCode="NOQ" locationCode="01" channelCode="HHN"></waveformID>
+        <phaseHint>S</phaseHint>
+        <evaluationMode>manual</evaluationMode>
+      </pick>
+      <pick publicID="smi:local/d34b84ec-c2eb-4886-a861-d2df5b3855d5">
+        <time>
+          <value>2020-03-18T13:15:15.571051Z</value>
+          <uncertainty>0.012799978256225586</uncertainty>
+        </time>
+        <waveformID networkCode="UU" stationCode="FTT" locationCode="01" channelCode="ENE"></waveformID>
+        <phaseHint>S</phaseHint>
+        <evaluationMode>manual</evaluationMode>
+      </pick>
+      <amplitude publicID="smi:local/d04d5bd1-600e-49b2-80ce-30aeed610f8a">
+        <genericAmplitude/>
+        <type>P</type>
+        <timeWindow>
+          <reference>2020-03-18T13:15:13.846034Z</reference>
+          <begin>0.0</begin>
+          <end>0.17412686347961426</end>
+        </timeWindow>
+        <pickID>smi:local/577ec013-299d-4709-bc1f-8e0ba3701367</pickID>
+      </amplitude>
+      <amplitude publicID="smi:local/2490385b-c93b-4cbf-a18c-b446bb9ea64d">
+        <genericAmplitude/>
+        <type>P</type>
+        <timeWindow>
+          <reference>2020-03-18T13:15:13.413606Z</reference>
+          <begin>0.0</begin>
+          <end>0.14521431922912598</end>
+        </timeWindow>
+        <pickID>smi:local/85dba4e8-3040-45fc-8658-147c2ae81f56</pickID>
+      </amplitude>
+      <amplitude publicID="smi:local/d7ff2649-8222-46a0-a0bf-b0ea6daa5147">
+        <genericAmplitude/>
+        <type>S</type>
+        <timeWindow>
+          <reference>2020-03-18T13:15:14.872809Z</reference>
+          <begin>0.0</begin>
+          <end>0.22296810150146484</end>
+        </timeWindow>
+        <pickID>smi:local/59c1bf71-6796-461d-a5da-02ec833aa274</pickID>
+      </amplitude>
+      <amplitude publicID="smi:local/ad401b6b-bd37-450e-bcbd-a7e2268b1458">
+        <genericAmplitude/>
+        <type>P</type>
+        <timeWindow>
+          <reference>2020-03-18T13:15:13.412056Z</reference>
+          <begin>0.0</begin>
+          <end>0.1476271152496338</end>
+        </timeWindow>
+        <pickID>smi:local/24a9f677-0bf5-4810-b356-0303259c0416</pickID>
+      </amplitude>
+      <amplitude publicID="smi:local/ce7d182b-b16c-42df-9db5-0f247958a8e8">
+        <genericAmplitude/>
+        <type>P</type>
+        <timeWindow>
+          <reference>2020-03-18T13:15:14.470762Z</reference>
+          <begin>0.0</begin>
+          <end>0.2671787738800049</end>
+        </timeWindow>
+        <pickID>smi:local/a25076ec-44a0-4870-9897-28e7e419ef90</pickID>
+      </amplitude>
+      <amplitude publicID="smi:local/21132635-9760-4e28-9d78-8092a4d4a778">
+        <genericAmplitude/>
+        <type>P</type>
+        <timeWindow>
+          <reference>2020-03-18T13:15:14.789080Z</reference>
+          <begin>0.0</begin>
+          <end>0.13788080215454102</end>
+        </timeWindow>
+        <pickID>smi:local/c5836c13-fe6b-454e-8a9d-d189b3558aaf</pickID>
+      </amplitude>
+      <amplitude publicID="smi:local/90b82f3d-ce48-4cb9-bcb3-3964d4c4dba8">
+        <genericAmplitude/>
+        <type>S</type>
+        <timeWindow>
+          <reference>2020-03-18T13:15:16.596318Z</reference>
+          <begin>0.0</begin>
+          <end>0.29726338386535645</end>
+        </timeWindow>
+        <pickID>smi:local/a86c0777-4939-40b7-9766-97695edc23b2</pickID>
+      </amplitude>
+      <amplitude publicID="smi:local/c2c0cabc-465a-4b7c-aebe-cae684e24c25">
+        <genericAmplitude/>
+        <type>S</type>
+        <timeWindow>
+          <reference>2020-03-18T13:15:15.571051Z</reference>
+          <begin>0.0</begin>
+          <end>0.2227187156677246</end>
+        </timeWindow>
+        <pickID>smi:local/d34b84ec-c2eb-4886-a861-d2df5b3855d5</pickID>
+      </amplitude>
+    </event>
+    <event publicID="smi:local/2289cdb4-512e-4d59-8182-3d2316bbaaf5">
+      <preferredOriginID>smi:local/d6a030af-8339-4de7-90b9-34042704bc4c</preferredOriginID>
+      <description>
+        <text>LR</text>
+      </description>
+      <origin publicID="smi:local/d6a030af-8339-4de7-90b9-34042704bc4c">
+        <time>
+          <value>2020-03-18T13:15:55.760000Z</value>
+        </time>
+        <latitude>
+          <value>40.74966666666667</value>
+        </latitude>
+        <longitude>
+          <value>112.04333333333334</value>
+        </longitude>
+        <depth>
+          <value>8260.0</value>
+        </depth>
+      </origin>
+      <pick publicID="smi:local/557d061b-3266-4e47-868f-32d98388f48d">
+        <time>
+          <value>2020-03-18T13:15:58.070333Z</value>
+          <uncertainty>0.01291799545288086</uncertainty>
+        </time>
+        <waveformID networkCode="UU" stationCode="FTT" locationCode="01" channelCode="ENZ"></waveformID>
+        <onset>impulsive</onset>
+        <phaseHint>P</phaseHint>
+        <polarity>positive</polarity>
+        <evaluationMode>manual</evaluationMode>
+      </pick>
+      <pick publicID="smi:local/b6486f3a-39bd-49ee-8666-5da572a3ec17">
+        <time>
+          <value>2020-03-18T13:15:59.365351Z</value>
+          <uncertainty>0.010980606079101562</uncertainty>
+        </time>
+        <waveformID networkCode="UU" stationCode="ICF" locationCode="01" channelCode="ENE"></waveformID>
+        <onset>impulsive</onset>
+        <phaseHint>S</phaseHint>
+        <evaluationMode>manual</evaluationMode>
+      </pick>
+      <pick publicID="smi:local/c110a581-68b5-4e4c-bfc2-72c7aae5d005">
+        <time>
+          <value>2020-03-18T13:15:57.548977Z</value>
+          <uncertainty>0.005339622497558594</uncertainty>
+        </time>
+        <waveformID networkCode="UU" stationCode="ICF" locationCode="01" channelCode="ENZ"></waveformID>
+        <onset>impulsive</onset>
+        <phaseHint>P</phaseHint>
+        <polarity>negative</polarity>
+        <evaluationMode>manual</evaluationMode>
+      </pick>
+      <pick publicID="smi:local/3e1ba933-a696-4cff-92f0-01f649106ada">
+        <time>
+          <value>2020-03-18T13:15:57.543072Z</value>
+          <uncertainty>0.007604360580444336</uncertainty>
+        </time>
+        <waveformID networkCode="UU" stationCode="LKC" locationCode="01" channelCode="ENZ"></waveformID>
+        <onset>impulsive</onset>
+        <phaseHint>P</phaseHint>
+        <polarity>negative</polarity>
+        <evaluationMode>manual</evaluationMode>
+      </pick>
+      <pick publicID="smi:local/07fac330-4a24-491c-b38e-b5612105a7d4">
+        <time>
+          <value>2020-03-18T13:16:00.901657Z</value>
+          <uncertainty>0.015097618103027344</uncertainty>
+        </time>
+        <waveformID networkCode="UU" stationCode="NOQ" locationCode="01" channelCode="HHE"></waveformID>
+        <onset>impulsive</onset>
+        <phaseHint>S</phaseHint>
+        <evaluationMode>manual</evaluationMode>
+      </pick>
+      <pick publicID="smi:local/01fdef0b-e2ac-4943-8b9a-9d7367cd3cd0">
+        <time>
+          <value>2020-03-18T13:15:58.730331Z</value>
+          <uncertainty>0.016174793243408203</uncertainty>
+        </time>
+        <waveformID networkCode="UU" stationCode="NOQ" locationCode="01" channelCode="HHZ"></waveformID>
+        <onset>impulsive</onset>
+        <phaseHint>P</phaseHint>
+        <polarity>positive</polarity>
+        <evaluationMode>manual</evaluationMode>
+      </pick>
+      <pick publicID="smi:local/c5376b56-d71a-4ef3-918e-d6e87a9f089e">
+        <time>
+          <value>2020-03-18T13:16:01.490000Z</value>
+          <uncertainty>0.0</uncertainty>
+        </time>
+        <waveformID networkCode="UU" stationCode="SAIU" locationCode="01" channelCode="ENE"></waveformID>
+        <onset>emergent</onset>
+        <phaseHint>S</phaseHint>
+        <evaluationMode>manual</evaluationMode>
+      </pick>
+      <pick publicID="smi:local/084ebcb6-89b3-413e-8e46-9ea03a99bc3e">
+        <time>
+          <value>2020-03-18T13:15:59.984388Z</value>
+          <uncertainty>0.02349400520324707</uncertainty>
+        </time>
+        <waveformID networkCode="UU" stationCode="FTT" locationCode="01" channelCode="ENE"></waveformID>
+        <phaseHint>S</phaseHint>
+        <evaluationMode>manual</evaluationMode>
+      </pick>
+      <pick publicID="smi:local/754227b8-c99d-456b-8686-150a85a1f941">
+        <time>
+          <value>2020-03-18T13:15:58.920846Z</value>
+          <uncertainty>0.010413169860839844</uncertainty>
+        </time>
+        <waveformID networkCode="UU" stationCode="LKC" locationCode="01" channelCode="ENN"></waveformID>
+        <phaseHint>S</phaseHint>
+        <evaluationMode>manual</evaluationMode>
+      </pick>
+      <pick publicID="smi:local/798eb8ec-8614-4074-b737-2f561e5711e6">
+        <time>
+          <value>2020-03-18T13:15:59.141275Z</value>
+          <uncertainty>0.004953622817993164</uncertainty>
+        </time>
+        <waveformID networkCode="UU" stationCode="SAIU" locationCode="01" channelCode="ENZ"></waveformID>
+        <phaseHint>P</phaseHint>
+        <polarity>negative</polarity>
+        <evaluationMode>manual</evaluationMode>
+      </pick>
+      <amplitude publicID="smi:local/94b27245-38bc-4169-add5-23910c01a0ab">
+        <genericAmplitude/>
+        <type>P</type>
+        <timeWindow>
+          <reference>2020-03-18T13:15:58.070333Z</reference>
+          <begin>0.0</begin>
+          <end>0.25319337844848633</end>
+        </timeWindow>
+        <pickID>smi:local/557d061b-3266-4e47-868f-32d98388f48d</pickID>
+      </amplitude>
+      <amplitude publicID="smi:local/77fd2f06-5678-4168-b16b-65104fe8919c">
+        <genericAmplitude/>
+        <type>S</type>
+        <timeWindow>
+          <reference>2020-03-18T13:15:59.365351Z</reference>
+          <begin>0.0</begin>
+          <end>0.25475168228149414</end>
+        </timeWindow>
+        <pickID>smi:local/b6486f3a-39bd-49ee-8666-5da572a3ec17</pickID>
+      </amplitude>
+      <amplitude publicID="smi:local/21a624df-aa7c-4a4d-8b61-e49e026ff5ab">
+        <genericAmplitude/>
+        <type>P</type>
+        <timeWindow>
+          <reference>2020-03-18T13:15:57.548977Z</reference>
+          <begin>0.0</begin>
+          <end>0.11358904838562012</end>
+        </timeWindow>
+        <pickID>smi:local/c110a581-68b5-4e4c-bfc2-72c7aae5d005</pickID>
+      </amplitude>
+      <amplitude publicID="smi:local/ae1bc0cd-dbc8-4441-924d-728b9b9aab4c">
+        <genericAmplitude/>
+        <type>P</type>
+        <timeWindow>
+          <reference>2020-03-18T13:15:57.543072Z</reference>
+          <begin>0.0</begin>
+          <end>0.1309657096862793</end>
+        </timeWindow>
+        <pickID>smi:local/3e1ba933-a696-4cff-92f0-01f649106ada</pickID>
+      </amplitude>
+      <amplitude publicID="smi:local/c09f259b-6da6-40fd-b871-0d562be9267f">
+        <genericAmplitude/>
+        <type>S</type>
+        <timeWindow>
+          <reference>2020-03-18T13:16:00.901657Z</reference>
+          <begin>0.0</begin>
+          <end>0.2989320755004883</end>
+        </timeWindow>
+        <pickID>smi:local/07fac330-4a24-491c-b38e-b5612105a7d4</pickID>
+      </amplitude>
+      <amplitude publicID="smi:local/5fc669f4-0df6-4942-acb9-6a6247c0f354">
+        <genericAmplitude/>
+        <type>P</type>
+        <timeWindow>
+          <reference>2020-03-18T13:15:58.730331Z</reference>
+          <begin>0.0</begin>
+          <end>0.280362606048584</end>
+        </timeWindow>
+        <pickID>smi:local/01fdef0b-e2ac-4943-8b9a-9d7367cd3cd0</pickID>
+      </amplitude>
+      <amplitude publicID="smi:local/8c40222f-9ae2-49c2-bbb0-9b59b0287766">
+        <genericAmplitude/>
+        <type>S</type>
+        <timeWindow>
+          <reference>2020-03-18T13:16:01.490000Z</reference>
+          <begin>0.0</begin>
+          <end>0.18068504333496094</end>
+        </timeWindow>
+        <pickID>smi:local/c5376b56-d71a-4ef3-918e-d6e87a9f089e</pickID>
+      </amplitude>
+      <amplitude publicID="smi:local/af1dd584-6982-4364-a877-87cb405d93c5">
+        <genericAmplitude/>
+        <type>S</type>
+        <timeWindow>
+          <reference>2020-03-18T13:15:59.984388Z</reference>
+          <begin>0.0</begin>
+          <end>0.2443389892578125</end>
+        </timeWindow>
+        <pickID>smi:local/084ebcb6-89b3-413e-8e46-9ea03a99bc3e</pickID>
+      </amplitude>
+      <amplitude publicID="smi:local/7cf1136f-3379-4b1c-9c8e-d4c3e4fae431">
+        <genericAmplitude/>
+        <type>S</type>
+        <timeWindow>
+          <reference>2020-03-18T13:15:58.920846Z</reference>
+          <begin>0.0</begin>
+          <end>0.24575090408325195</end>
+        </timeWindow>
+        <pickID>smi:local/754227b8-c99d-456b-8686-150a85a1f941</pickID>
+      </amplitude>
+      <amplitude publicID="smi:local/e4448f84-20dc-4429-9aac-0f598e643347">
+        <genericAmplitude/>
+        <type>P</type>
+        <timeWindow>
+          <reference>2020-03-18T13:15:59.141275Z</reference>
+          <begin>0.0</begin>
+          <end>0.13077950477600098</end>
+        </timeWindow>
+        <pickID>smi:local/798eb8ec-8614-4074-b737-2f561e5711e6</pickID>
+      </amplitude>
+    </event>
+    <event publicID="smi:local/09509f65-9fed-47ff-bcab-9adbf92da926">
+      <preferredOriginID>smi:local/0bbb493d-0585-4fc6-9ae8-8f33ca1a596f</preferredOriginID>
+      <description>
+        <text>LR</text>
+      </description>
+      <origin publicID="smi:local/0bbb493d-0585-4fc6-9ae8-8f33ca1a596f">
+        <time>
+          <value>2020-03-18T13:16:03.040000Z</value>
+        </time>
+        <latitude>
+          <value>40.761</value>
+        </latitude>
+        <longitude>
+          <value>112.0715</value>
+        </longitude>
+        <depth>
+          <value>5950.0</value>
+        </depth>
+      </origin>
+      <pick publicID="smi:local/bb3b09ac-59f6-4fd3-afbd-3cb398130870">
+        <time>
+          <value>2020-03-18T13:16:05.107731Z</value>
+          <uncertainty>0.002941608428955078</uncertainty>
+        </time>
+        <waveformID networkCode="UU" stationCode="FTT" locationCode="01" channelCode="ENZ"></waveformID>
+        <onset>impulsive</onset>
+        <phaseHint>P</phaseHint>
+        <polarity>positive</polarity>
+        <evaluationMode>manual</evaluationMode>
+      </pick>
+      <pick publicID="smi:local/c2003f91-7012-4070-800b-b81072b8bea1">
+        <time>
+          <value>2020-03-18T13:16:04.622895Z</value>
+          <uncertainty>0.005949497222900391</uncertainty>
+        </time>
+        <waveformID networkCode="UU" stationCode="ICF" locationCode="01" channelCode="ENZ"></waveformID>
+        <onset>impulsive</onset>
+        <phaseHint>P</phaseHint>
+        <polarity>negative</polarity>
+        <evaluationMode>manual</evaluationMode>
+      </pick>
+      <pick publicID="smi:local/c76d2beb-1c41-4075-984c-085eede3a6bb">
+        <time>
+          <value>2020-03-18T13:16:06.048496Z</value>
+          <uncertainty>0.0055084228515625</uncertainty>
+        </time>
+        <waveformID networkCode="UU" stationCode="LKC" locationCode="01" channelCode="ENN"></waveformID>
+        <onset>impulsive</onset>
+        <phaseHint>S</phaseHint>
+        <polarity>negative</polarity>
+        <evaluationMode>manual</evaluationMode>
+      </pick>
+      <pick publicID="smi:local/7884d3c0-2f9a-4616-893c-beb3375fedcd">
+        <time>
+          <value>2020-03-18T13:16:04.679720Z</value>
+          <uncertainty>0.012869834899902344</uncertainty>
+        </time>
+        <waveformID networkCode="UU" stationCode="LKC" locationCode="01" channelCode="ENZ"></waveformID>
+        <onset>impulsive</onset>
+        <phaseHint>P</phaseHint>
+        <polarity>positive</polarity>
+        <evaluationMode>manual</evaluationMode>
+      </pick>
+      <pick publicID="smi:local/f7cec668-8030-4f5a-8488-cf851cf576c9">
+        <time>
+          <value>2020-03-18T13:16:07.874013Z</value>
+          <uncertainty>0.018448829650878906</uncertainty>
+        </time>
+        <waveformID networkCode="UU" stationCode="NOQ" locationCode="01" channelCode="HHE"></waveformID>
+        <onset>impulsive</onset>
+        <phaseHint>S</phaseHint>
+        <evaluationMode>manual</evaluationMode>
+      </pick>
+      <pick publicID="smi:local/e8eafe04-a9cf-4d67-acf8-6c9d5072a418">
+        <time>
+          <value>2020-03-18T13:16:08.131713Z</value>
+          <uncertainty>0.02448415756225586</uncertainty>
+        </time>
+        <waveformID networkCode="UU" stationCode="SAIU" locationCode="01" channelCode="ENE"></waveformID>
+        <onset>impulsive</onset>
+        <phaseHint>S</phaseHint>
+        <evaluationMode>manual</evaluationMode>
+      </pick>
+      <pick publicID="smi:local/faeec67b-28a7-4475-a52f-47e54660f119">
+        <time>
+          <value>2020-03-18T13:16:06.114040Z</value>
+          <uncertainty>0.013105392456054688</uncertainty>
+        </time>
+        <waveformID networkCode="UU" stationCode="SAIU" locationCode="01" channelCode="ENZ"></waveformID>
+        <phaseHint>P</phaseHint>
+        <evaluationMode>manual</evaluationMode>
+      </pick>
+      <pick publicID="smi:local/a07fe6c8-beda-48aa-8cc8-e8e2de6c9a40">
+        <time>
+          <value>2020-03-18T13:16:06.188934Z</value>
+          <uncertainty>0.016493797302246094</uncertainty>
+        </time>
+        <waveformID networkCode="UU" stationCode="ICF" locationCode="01" channelCode="ENN"></waveformID>
+        <phaseHint>S</phaseHint>
+        <evaluationMode>manual</evaluationMode>
+      </pick>
+      <amplitude publicID="smi:local/6735cc79-344c-4c4e-82e0-bf545c288068">
+        <genericAmplitude/>
+        <type>P</type>
+        <timeWindow>
+          <reference>2020-03-18T13:16:05.107731Z</reference>
+          <begin>0.0</begin>
+          <end>0.15442633628845215</end>
+        </timeWindow>
+        <pickID>smi:local/bb3b09ac-59f6-4fd3-afbd-3cb398130870</pickID>
+      </amplitude>
+      <amplitude publicID="smi:local/69d1dd21-a8f3-44bd-9918-05ff11b168e7">
+        <genericAmplitude/>
+        <type>P</type>
+        <timeWindow>
+          <reference>2020-03-18T13:16:04.622895Z</reference>
+          <begin>0.0</begin>
+          <end>0.14108967781066895</end>
+        </timeWindow>
+        <pickID>smi:local/c2003f91-7012-4070-800b-b81072b8bea1</pickID>
+      </amplitude>
+      <amplitude publicID="smi:local/9aba870e-12bf-495f-89b1-90229de625e2">
+        <genericAmplitude/>
+        <type>S</type>
+        <timeWindow>
+          <reference>2020-03-18T13:16:06.048496Z</reference>
+          <begin>0.0</begin>
+          <end>0.16745615005493164</end>
+        </timeWindow>
+        <pickID>smi:local/c76d2beb-1c41-4075-984c-085eede3a6bb</pickID>
+      </amplitude>
+      <amplitude publicID="smi:local/56d02879-1785-4d46-a24f-08e2216aa78b">
+        <genericAmplitude/>
+        <type>P</type>
+        <timeWindow>
+          <reference>2020-03-18T13:16:04.679720Z</reference>
+          <begin>0.0</begin>
+          <end>0.07721805572509766</end>
+        </timeWindow>
+        <pickID>smi:local/7884d3c0-2f9a-4616-893c-beb3375fedcd</pickID>
+      </amplitude>
+      <amplitude publicID="smi:local/1f454516-2eed-48e9-a15a-b3e9c5d526cb">
+        <genericAmplitude/>
+        <type>S</type>
+        <timeWindow>
+          <reference>2020-03-18T13:16:07.874013Z</reference>
+          <begin>0.0</begin>
+          <end>0.25090527534484863</end>
+        </timeWindow>
+        <pickID>smi:local/f7cec668-8030-4f5a-8488-cf851cf576c9</pickID>
+      </amplitude>
+      <amplitude publicID="smi:local/269eafb8-fb51-40d2-aa98-87fb70c739f3">
+        <genericAmplitude/>
+        <type>S</type>
+        <timeWindow>
+          <reference>2020-03-18T13:16:08.131713Z</reference>
+          <begin>0.0</begin>
+          <end>0.21546030044555664</end>
+        </timeWindow>
+        <pickID>smi:local/e8eafe04-a9cf-4d67-acf8-6c9d5072a418</pickID>
+      </amplitude>
+      <amplitude publicID="smi:local/66e5551a-2bf5-4ddc-a7c5-23da5305d64f">
+        <genericAmplitude/>
+        <type>P</type>
+        <timeWindow>
+          <reference>2020-03-18T13:16:06.114040Z</reference>
+          <begin>0.0</begin>
+          <end>0.1625070571899414</end>
+        </timeWindow>
+        <pickID>smi:local/faeec67b-28a7-4475-a52f-47e54660f119</pickID>
+      </amplitude>
+      <amplitude publicID="smi:local/c00bb229-0b85-4d8a-ba57-334358a15add">
+        <genericAmplitude/>
+        <type>S</type>
+        <timeWindow>
+          <reference>2020-03-18T13:16:06.188934Z</reference>
+          <begin>0.0</begin>
+          <end>0.316678524017334</end>
+        </timeWindow>
+        <pickID>smi:local/a07fe6c8-beda-48aa-8cc8-e8e2de6c9a40</pickID>
+      </amplitude>
+    </event>
+    <event publicID="smi:local/f183bdeb-f8f1-48c7-aff7-c0e0f81e7692">
+      <preferredOriginID>smi:local/139ccb46-b0a0-43a0-9db0-6f9ab90b382d</preferredOriginID>
+      <description>
+        <text>LR</text>
+      </description>
+      <origin publicID="smi:local/139ccb46-b0a0-43a0-9db0-6f9ab90b382d">
+        <time>
+          <value>2020-03-18T13:16:38.480000Z</value>
+        </time>
+        <latitude>
+          <value>40.76566666666667</value>
+        </latitude>
+        <longitude>
+          <value>112.07616666666667</value>
+        </longitude>
+        <depth>
+          <value>9590.0</value>
+        </depth>
+      </origin>
+      <pick publicID="smi:local/ce7c899c-91a6-4275-bf8f-68f368ff7136">
+        <time>
+          <value>2020-03-18T13:16:42.850080Z</value>
+          <uncertainty>0.012000799179077148</uncertainty>
+        </time>
+        <waveformID networkCode="UU" stationCode="FTT" locationCode="01" channelCode="ENN"></waveformID>
+        <onset>impulsive</onset>
+        <phaseHint>S</phaseHint>
+        <evaluationMode>manual</evaluationMode>
+      </pick>
+      <pick publicID="smi:local/b6c00a74-442c-4c7f-94d8-d3ca7cfed360">
+        <time>
+          <value>2020-03-18T13:16:41.069932Z</value>
+          <uncertainty>0.01171112060546875</uncertainty>
+        </time>
+        <waveformID networkCode="UU" stationCode="FTT" locationCode="01" channelCode="ENZ"></waveformID>
+        <onset>impulsive</onset>
+        <phaseHint>P</phaseHint>
+        <polarity>positive</polarity>
+        <evaluationMode>manual</evaluationMode>
+      </pick>
+      <pick publicID="smi:local/a5d362a8-1adc-49b7-bbc2-073cead6ac83">
+        <time>
+          <value>2020-03-18T13:16:42.177561Z</value>
+          <uncertainty>0.00775456428527832</uncertainty>
+        </time>
+        <waveformID networkCode="UU" stationCode="ICF" locationCode="01" channelCode="ENN"></waveformID>
+        <onset>impulsive</onset>
+        <phaseHint>S</phaseHint>
+        <evaluationMode>manual</evaluationMode>
+      </pick>
+      <pick publicID="smi:local/39031188-c550-4d3c-b254-796368eecf7b">
+        <time>
+          <value>2020-03-18T13:16:40.523532Z</value>
+          <uncertainty>0.002543210983276367</uncertainty>
+        </time>
+        <waveformID networkCode="UU" stationCode="ICF" locationCode="01" channelCode="ENZ"></waveformID>
+        <onset>impulsive</onset>
+        <phaseHint>P</phaseHint>
+        <polarity>negative</polarity>
+        <evaluationMode>manual</evaluationMode>
+      </pick>
+      <pick publicID="smi:local/90e8e9ce-d19d-4d2d-94d3-4dc2ab7cf6a7">
+        <time>
+          <value>2020-03-18T13:16:42.210767Z</value>
+          <uncertainty>0.012778043746948242</uncertainty>
+        </time>
+        <waveformID networkCode="UU" stationCode="LKC" locationCode="01" channelCode="ENN"></waveformID>
+        <onset>impulsive</onset>
+        <phaseHint>S</phaseHint>
+        <evaluationMode>manual</evaluationMode>
+      </pick>
+      <pick publicID="smi:local/dfc802ef-5ad7-4dfe-9928-d42b7755f129">
+        <time>
+          <value>2020-03-18T13:16:40.690567Z</value>
+          <uncertainty>0.011453866958618164</uncertainty>
+        </time>
+        <waveformID networkCode="UU" stationCode="LKC" locationCode="01" channelCode="ENZ"></waveformID>
+        <onset>impulsive</onset>
+        <phaseHint>P</phaseHint>
+        <evaluationMode>manual</evaluationMode>
+      </pick>
+      <pick publicID="smi:local/16b785e7-980c-4b18-99ae-1f13d884286a">
+        <time>
+          <value>2020-03-18T13:16:43.731398Z</value>
+          <uncertainty>0.033606767654418945</uncertainty>
+        </time>
+        <waveformID networkCode="UU" stationCode="NOQ" locationCode="01" channelCode="HHN"></waveformID>
+        <onset>impulsive</onset>
+        <phaseHint>S</phaseHint>
+        <evaluationMode>manual</evaluationMode>
+      </pick>
+      <pick publicID="smi:local/4894d7a5-51a2-4466-bfec-6cad416558f5">
+        <time>
+          <value>2020-03-18T13:16:41.658521Z</value>
+          <uncertainty>0.016597747802734375</uncertainty>
+        </time>
+        <waveformID networkCode="UU" stationCode="NOQ" locationCode="01" channelCode="HHZ"></waveformID>
+        <onset>impulsive</onset>
+        <phaseHint>P</phaseHint>
+        <evaluationMode>manual</evaluationMode>
+      </pick>
+      <pick publicID="smi:local/09a79528-ee12-4534-b5af-5eb1d2c92f18">
+        <time>
+          <value>2020-03-18T13:16:43.320000Z</value>
+          <uncertainty>0.0</uncertainty>
+        </time>
+        <waveformID networkCode="UU" stationCode="SAIU" locationCode="01" channelCode="ENE"></waveformID>
+        <onset>impulsive</onset>
+        <phaseHint>S</phaseHint>
+      </pick>
+      <pick publicID="smi:local/c511b1a8-5ffc-40c7-a233-b191c639e51d">
+        <time>
+          <value>2020-03-18T13:16:41.492263Z</value>
+          <uncertainty>0.0066492557525634766</uncertainty>
+        </time>
+        <waveformID networkCode="UU" stationCode="SAIU" locationCode="01" channelCode="ENZ"></waveformID>
+        <phaseHint>P</phaseHint>
+        <evaluationMode>manual</evaluationMode>
+      </pick>
+      <amplitude publicID="smi:local/a64cfcca-e763-46e8-9999-f29a47316f91">
+        <genericAmplitude/>
+        <type>S</type>
+        <timeWindow>
+          <reference>2020-03-18T13:16:42.850080Z</reference>
+          <begin>0.0</begin>
+          <end>0.22972846031188965</end>
+        </timeWindow>
+        <pickID>smi:local/ce7c899c-91a6-4275-bf8f-68f368ff7136</pickID>
+      </amplitude>
+      <amplitude publicID="smi:local/4f81368d-b289-4709-ac81-421128bdb863">
+        <genericAmplitude/>
+        <type>P</type>
+        <timeWindow>
+          <reference>2020-03-18T13:16:41.069932Z</reference>
+          <begin>0.0</begin>
+          <end>0.17566585540771484</end>
+        </timeWindow>
+        <pickID>smi:local/b6c00a74-442c-4c7f-94d8-d3ca7cfed360</pickID>
+      </amplitude>
+      <amplitude publicID="smi:local/713e44a2-7f17-4f36-9fbf-1c3598229892">
+        <genericAmplitude/>
+        <type>S</type>
+        <timeWindow>
+          <reference>2020-03-18T13:16:42.177561Z</reference>
+          <begin>0.0</begin>
+          <end>0.24348807334899902</end>
+        </timeWindow>
+        <pickID>smi:local/a5d362a8-1adc-49b7-bbc2-073cead6ac83</pickID>
+      </amplitude>
+      <amplitude publicID="smi:local/f4d648da-17c8-4b87-814f-ff6126b569e0">
+        <genericAmplitude/>
+        <type>P</type>
+        <timeWindow>
+          <reference>2020-03-18T13:16:40.523532Z</reference>
+          <begin>0.0</begin>
+          <end>0.13860297203063965</end>
+        </timeWindow>
+        <pickID>smi:local/39031188-c550-4d3c-b254-796368eecf7b</pickID>
+      </amplitude>
+      <amplitude publicID="smi:local/bf61cf57-9ad6-4905-97f5-2be339f40269">
+        <genericAmplitude/>
+        <type>S</type>
+        <timeWindow>
+          <reference>2020-03-18T13:16:42.210767Z</reference>
+          <begin>0.0</begin>
+          <end>0.29549717903137207</end>
+        </timeWindow>
+        <pickID>smi:local/90e8e9ce-d19d-4d2d-94d3-4dc2ab7cf6a7</pickID>
+      </amplitude>
+      <amplitude publicID="smi:local/91672505-0295-4141-b341-de3396258890">
+        <genericAmplitude/>
+        <type>P</type>
+        <timeWindow>
+          <reference>2020-03-18T13:16:40.690567Z</reference>
+          <begin>0.0</begin>
+          <end>0.09163045883178711</end>
+        </timeWindow>
+        <pickID>smi:local/dfc802ef-5ad7-4dfe-9928-d42b7755f129</pickID>
+      </amplitude>
+      <amplitude publicID="smi:local/a837597c-a0e5-448c-ab58-48368fefa046">
+        <genericAmplitude/>
+        <type>S</type>
+        <timeWindow>
+          <reference>2020-03-18T13:16:43.731398Z</reference>
+          <begin>0.0</begin>
+          <end>0.22684550285339355</end>
+        </timeWindow>
+        <pickID>smi:local/16b785e7-980c-4b18-99ae-1f13d884286a</pickID>
+      </amplitude>
+      <amplitude publicID="smi:local/fa011d57-a014-442d-805a-b8e4fdb5df40">
+        <genericAmplitude/>
+        <type>P</type>
+        <timeWindow>
+          <reference>2020-03-18T13:16:41.658521Z</reference>
+          <begin>0.0</begin>
+          <end>0.1873161792755127</end>
+        </timeWindow>
+        <pickID>smi:local/4894d7a5-51a2-4466-bfec-6cad416558f5</pickID>
+      </amplitude>
+      <amplitude publicID="smi:local/927f4020-01e6-4c57-866f-e3e3b474c71a">
+        <genericAmplitude/>
+        <type>P</type>
+        <timeWindow>
+          <reference>2020-03-18T13:16:41.492263Z</reference>
+          <begin>0.0</begin>
+          <end>0.15514802932739258</end>
+        </timeWindow>
+        <pickID>smi:local/c511b1a8-5ffc-40c7-a233-b191c639e51d</pickID>
+      </amplitude>
+    </event>
+    <event publicID="smi:local/dd2aaf32-f10d-4437-9032-4c1512c361d8">
+      <preferredOriginID>smi:local/3a5ff209-f691-4856-8943-170e33cb3427</preferredOriginID>
+      <description>
+        <text>LR</text>
+      </description>
+      <origin publicID="smi:local/3a5ff209-f691-4856-8943-170e33cb3427">
+        <time>
+          <value>2020-03-18T13:18:28.450000Z</value>
+        </time>
+        <latitude>
+          <value>40.75333333333333</value>
+        </latitude>
+        <longitude>
+          <value>112.05266666666667</value>
+        </longitude>
+        <depth>
+          <value>7620.0</value>
+        </depth>
+      </origin>
+      <pick publicID="smi:local/ada601a5-6364-49a2-8273-e2f0459ec2bf">
+        <time>
+          <value>2020-03-18T13:18:30.720081Z</value>
+          <uncertainty>0.009142160415649414</uncertainty>
+        </time>
+        <waveformID networkCode="UU" stationCode="FTT" locationCode="01" channelCode="ENZ"></waveformID>
+        <onset>impulsive</onset>
+        <phaseHint>P</phaseHint>
+        <evaluationMode>manual</evaluationMode>
+      </pick>
+      <pick publicID="smi:local/21247e48-bc3b-4ab3-8914-34f08269516e">
+        <time>
+          <value>2020-03-18T13:18:30.243544Z</value>
+          <uncertainty>0.006383180618286133</uncertainty>
+        </time>
+        <waveformID networkCode="UU" stationCode="ICF" locationCode="01" channelCode="ENZ"></waveformID>
+        <onset>impulsive</onset>
+        <phaseHint>P</phaseHint>
+        <evaluationMode>manual</evaluationMode>
+      </pick>
+      <pick publicID="smi:local/bd73563f-6407-4e08-8f2e-f4d97100f4c5">
+        <time>
+          <value>2020-03-18T13:18:31.660000Z</value>
+          <uncertainty>0.0</uncertainty>
+        </time>
+        <waveformID networkCode="UU" stationCode="LKC" locationCode="01" channelCode="ENN"></waveformID>
+        <onset>impulsive</onset>
+        <phaseHint>S</phaseHint>
+      </pick>
+      <pick publicID="smi:local/8e5bc651-08b8-496f-9959-7b25a3c42eda">
+        <time>
+          <value>2020-03-18T13:18:30.242461Z</value>
+          <uncertainty>0.010946989059448242</uncertainty>
+        </time>
+        <waveformID networkCode="UU" stationCode="LKC" locationCode="01" channelCode="ENZ"></waveformID>
+        <onset>impulsive</onset>
+        <phaseHint>P</phaseHint>
+        <polarity>negative</polarity>
+        <evaluationMode>manual</evaluationMode>
+      </pick>
+      <pick publicID="smi:local/d7aa576a-e438-444c-87b4-1ded74d47df5">
+        <time>
+          <value>2020-03-18T13:18:32.024803Z</value>
+          <uncertainty>0.01296377182006836</uncertainty>
+        </time>
+        <waveformID networkCode="UU" stationCode="ICF" locationCode="01" channelCode="ENN"></waveformID>
+        <phaseHint>S</phaseHint>
+        <evaluationMode>manual</evaluationMode>
+      </pick>
+      <pick publicID="smi:local/f2360652-0707-4056-a21f-6b8a9396968d">
+        <time>
+          <value>2020-03-18T13:18:31.346555Z</value>
+          <uncertainty>0.007833242416381836</uncertainty>
+        </time>
+        <waveformID networkCode="UU" stationCode="NOQ" locationCode="01" channelCode="HHZ"></waveformID>
+        <phaseHint>P</phaseHint>
+        <polarity>positive</polarity>
+        <evaluationMode>manual</evaluationMode>
+      </pick>
+      <pick publicID="smi:local/9e886565-39df-41d3-a706-7e34203010d5">
+        <time>
+          <value>2020-03-18T13:18:33.464258Z</value>
+          <uncertainty>0.016583681106567383</uncertainty>
+        </time>
+        <waveformID networkCode="UU" stationCode="NOQ" locationCode="01" channelCode="HHE"></waveformID>
+        <phaseHint>S</phaseHint>
+        <evaluationMode>manual</evaluationMode>
+      </pick>
+      <pick publicID="smi:local/a5fbcc12-cf27-4326-b52c-97589e6eb8e9">
+        <time>
+          <value>2020-03-18T13:18:31.772652Z</value>
+          <uncertainty>0.00798940658569336</uncertainty>
+        </time>
+        <waveformID networkCode="UU" stationCode="SAIU" locationCode="01" channelCode="ENZ"></waveformID>
+        <phaseHint>P</phaseHint>
+        <polarity>positive</polarity>
+        <evaluationMode>manual</evaluationMode>
+      </pick>
+      <amplitude publicID="smi:local/1580d391-eccf-4fd9-936c-c1dcda4820b9">
+        <genericAmplitude/>
+        <type>P</type>
+        <timeWindow>
+          <reference>2020-03-18T13:18:30.720081Z</reference>
+          <begin>0.0</begin>
+          <end>0.17827153205871582</end>
+        </timeWindow>
+        <pickID>smi:local/ada601a5-6364-49a2-8273-e2f0459ec2bf</pickID>
+      </amplitude>
+      <amplitude publicID="smi:local/dc68cba2-1746-4c7b-8dc8-e885acd5184d">
+        <genericAmplitude/>
+        <type>P</type>
+        <timeWindow>
+          <reference>2020-03-18T13:18:30.243544Z</reference>
+          <begin>0.0</begin>
+          <end>0.16596579551696777</end>
+        </timeWindow>
+        <pickID>smi:local/21247e48-bc3b-4ab3-8914-34f08269516e</pickID>
+      </amplitude>
+      <amplitude publicID="smi:local/45e63cf0-841b-4db3-a5c3-e1266214e5e2">
+        <genericAmplitude/>
+        <type>P</type>
+        <timeWindow>
+          <reference>2020-03-18T13:18:30.242461Z</reference>
+          <begin>0.0</begin>
+          <end>0.13683795928955078</end>
+        </timeWindow>
+        <pickID>smi:local/8e5bc651-08b8-496f-9959-7b25a3c42eda</pickID>
+      </amplitude>
+      <amplitude publicID="smi:local/bd71a68c-1367-4954-a068-dff33fdf9076">
+        <genericAmplitude/>
+        <type>S</type>
+        <timeWindow>
+          <reference>2020-03-18T13:18:32.024803Z</reference>
+          <begin>0.0</begin>
+          <end>0.31436729431152344</end>
+        </timeWindow>
+        <pickID>smi:local/d7aa576a-e438-444c-87b4-1ded74d47df5</pickID>
+      </amplitude>
+      <amplitude publicID="smi:local/d0932393-c006-447f-98a8-f7243ce72645">
+        <genericAmplitude/>
+        <type>P</type>
+        <timeWindow>
+          <reference>2020-03-18T13:18:31.346555Z</reference>
+          <begin>0.0</begin>
+          <end>0.19484853744506836</end>
+        </timeWindow>
+        <pickID>smi:local/f2360652-0707-4056-a21f-6b8a9396968d</pickID>
+      </amplitude>
+      <amplitude publicID="smi:local/9261f182-e3eb-4fdc-ac1a-6f8daa962f8e">
+        <genericAmplitude/>
+        <type>S</type>
+        <timeWindow>
+          <reference>2020-03-18T13:18:33.464258Z</reference>
+          <begin>0.0</begin>
+          <end>0.18794703483581543</end>
+        </timeWindow>
+        <pickID>smi:local/9e886565-39df-41d3-a706-7e34203010d5</pickID>
+      </amplitude>
+      <amplitude publicID="smi:local/728d8193-32b1-4333-826d-a422353e128d">
+        <genericAmplitude/>
+        <type>P</type>
+        <timeWindow>
+          <reference>2020-03-18T13:18:31.772652Z</reference>
+          <begin>0.0</begin>
+          <end>0.1141357421875</end>
+        </timeWindow>
+        <pickID>smi:local/a5fbcc12-cf27-4326-b52c-97589e6eb8e9</pickID>
+      </amplitude>
+    </event>
+    <event publicID="smi:local/256ae6e9-2305-4f8b-b035-fa1c873d4903">
+      <preferredOriginID>smi:local/2fd1ff92-4844-43b7-a222-688021937249</preferredOriginID>
+      <description>
+        <text>LR</text>
+      </description>
+      <origin publicID="smi:local/2fd1ff92-4844-43b7-a222-688021937249">
+        <time>
+          <value>2020-03-18T13:11:00.064853Z</value>
+        </time>
+        <latitude>
+          <value>0.0</value>
+        </latitude>
+        <longitude>
+          <value>0.0</value>
+        </longitude>
+        <depth>
+          <value>0.0</value>
+        </depth>
+      </origin>
+      <pick publicID="smi:local/fcd63637-a6d7-404b-be1e-a15a2ee2a77a">
+        <time>
+          <value>2020-03-18T13:11:01.539985Z</value>
+          <uncertainty>0.007264137268066406</uncertainty>
+        </time>
+        <waveformID networkCode="UU" stationCode="FTT" locationCode="01" channelCode="ENZ"></waveformID>
+        <phaseHint>P</phaseHint>
+        <polarity>negative</polarity>
+        <evaluationMode>manual</evaluationMode>
+      </pick>
+      <pick publicID="smi:local/5fc588b5-5199-4dfc-b6cf-5ac4834987bf">
+        <time>
+          <value>2020-03-18T13:11:04.243559Z</value>
+          <uncertainty>0.03424882888793945</uncertainty>
+        </time>
+        <waveformID networkCode="UU" stationCode="ICF" locationCode="01" channelCode="ENN"></waveformID>
+        <phaseHint>S</phaseHint>
+        <evaluationMode>manual</evaluationMode>
+      </pick>
+      <pick publicID="smi:local/6600fa21-ccb7-4bc9-8a93-0689b4bf7062">
+        <time>
+          <value>2020-03-18T13:11:02.124131Z</value>
+          <uncertainty>0.021012306213378906</uncertainty>
+        </time>
+        <waveformID networkCode="UU" stationCode="ICF" locationCode="01" channelCode="ENZ"></waveformID>
+        <phaseHint>P</phaseHint>
+        <evaluationMode>manual</evaluationMode>
+      </pick>
+      <pick publicID="smi:local/0217ba29-aea5-47ce-80ca-67c651198503">
+        <time>
+          <value>2020-03-18T13:11:01.693306Z</value>
+          <uncertainty>0.011380672454833984</uncertainty>
+        </time>
+        <waveformID networkCode="UU" stationCode="LKC" locationCode="01" channelCode="ENZ"></waveformID>
+        <phaseHint>P</phaseHint>
+        <polarity>positive</polarity>
+        <evaluationMode>manual</evaluationMode>
+      </pick>
+      <pick publicID="smi:local/40e90cb8-021c-4a01-a0ad-90f0ee78c268">
+        <time>
+          <value>2020-03-18T13:11:01.920746Z</value>
+          <uncertainty>0.014040470123291016</uncertainty>
+        </time>
+        <waveformID networkCode="UU" stationCode="NOQ" locationCode="01" channelCode="HHZ"></waveformID>
+        <phaseHint>P</phaseHint>
+        <polarity>negative</polarity>
+        <evaluationMode>manual</evaluationMode>
+      </pick>
+      <pick publicID="smi:local/8d9b0411-b5b5-427a-9f65-1c11f51df484">
+        <time>
+          <value>2020-03-18T13:11:03.547901Z</value>
+          <uncertainty>0.031491756439208984</uncertainty>
+        </time>
+        <waveformID networkCode="UU" stationCode="NOQ" locationCode="01" channelCode="HHN"></waveformID>
+        <phaseHint>S</phaseHint>
+        <polarity>negative</polarity>
+        <evaluationMode>manual</evaluationMode>
+      </pick>
+      <pick publicID="smi:local/7f5e7134-6a43-4d58-9011-0fb4c137f595">
+        <time>
+          <value>2020-03-18T13:11:02.940661Z</value>
+          <uncertainty>0.007705211639404297</uncertainty>
+        </time>
+        <waveformID networkCode="UU" stationCode="SAIU" locationCode="01" channelCode="ENZ"></waveformID>
+        <phaseHint>P</phaseHint>
+        <polarity>negative</polarity>
+        <evaluationMode>manual</evaluationMode>
+      </pick>
+      <amplitude publicID="smi:local/b40fea96-3fc0-4eb2-9ee8-6736167cbb13">
+        <genericAmplitude/>
+        <type>P</type>
+        <timeWindow>
+          <reference>2020-03-18T13:11:01.539985Z</reference>
+          <begin>0.0</begin>
+          <end>0.1271214485168457</end>
+        </timeWindow>
+        <pickID>smi:local/fcd63637-a6d7-404b-be1e-a15a2ee2a77a</pickID>
+      </amplitude>
+      <amplitude publicID="smi:local/7d14a006-dc4b-4423-be19-c1821002b5e3">
+        <genericAmplitude/>
+        <type>S</type>
+        <timeWindow>
+          <reference>2020-03-18T13:11:04.243559Z</reference>
+          <begin>0.0</begin>
+          <end>0.42810845375061035</end>
+        </timeWindow>
+        <pickID>smi:local/5fc588b5-5199-4dfc-b6cf-5ac4834987bf</pickID>
+      </amplitude>
+      <amplitude publicID="smi:local/5ea1e195-9935-4fbb-a3fa-985d6b89b959">
+        <genericAmplitude/>
+        <type>P</type>
+        <timeWindow>
+          <reference>2020-03-18T13:11:01.693306Z</reference>
+          <begin>0.0</begin>
+          <end>0.17395925521850586</end>
+        </timeWindow>
+        <pickID>smi:local/0217ba29-aea5-47ce-80ca-67c651198503</pickID>
+      </amplitude>
+      <amplitude publicID="smi:local/bbdd5dcb-b974-4abb-8a4d-b824a404658a">
+        <genericAmplitude/>
+        <type>P</type>
+        <timeWindow>
+          <reference>2020-03-18T13:11:01.920746Z</reference>
+          <begin>0.0</begin>
+          <end>0.25116825103759766</end>
+        </timeWindow>
+        <pickID>smi:local/40e90cb8-021c-4a01-a0ad-90f0ee78c268</pickID>
+      </amplitude>
+      <amplitude publicID="smi:local/9eb2e374-e927-44fa-8b51-1d0cb7caf927">
+        <genericAmplitude/>
+        <type>S</type>
+        <timeWindow>
+          <reference>2020-03-18T13:11:03.547901Z</reference>
+          <begin>0.0</begin>
+          <end>0.3883984088897705</end>
+        </timeWindow>
+        <pickID>smi:local/8d9b0411-b5b5-427a-9f65-1c11f51df484</pickID>
+      </amplitude>
+      <amplitude publicID="smi:local/04da9a9c-45fe-4eba-b3dd-60d7c111609a">
+        <genericAmplitude/>
+        <type>P</type>
+        <timeWindow>
+          <reference>2020-03-18T13:11:02.940661Z</reference>
+          <begin>0.0</begin>
+          <end>0.24776053428649902</end>
+        </timeWindow>
+        <pickID>smi:local/7f5e7134-6a43-4d58-9011-0fb4c137f595</pickID>
+      </amplitude>
+    </event>
+    <event publicID="smi:local/a7e34ca4-5d34-4bb2-8b40-abf754dd9c1d">
+      <preferredOriginID>smi:local/ce540288-403c-4942-a43a-c25adae70b1b</preferredOriginID>
+      <description>
+        <text>LR</text>
+      </description>
+      <origin publicID="smi:local/ce540288-403c-4942-a43a-c25adae70b1b">
+        <time>
+          <value>2020-03-18T13:11:09.483358Z</value>
+        </time>
+        <latitude>
+          <value>0.0</value>
+        </latitude>
+        <longitude>
+          <value>0.0</value>
+        </longitude>
+        <depth>
+          <value>0.0</value>
+        </depth>
+      </origin>
+      <pick publicID="smi:local/aca42e5e-8bd6-4d48-8ad0-90865fa59bea">
+        <time>
+          <value>2020-03-18T13:11:12.398547Z</value>
+          <uncertainty>0.021342992782592773</uncertainty>
+        </time>
+        <waveformID networkCode="UU" stationCode="FTT" locationCode="01" channelCode="ENZ"></waveformID>
+        <phaseHint>P</phaseHint>
+        <evaluationMode>manual</evaluationMode>
+      </pick>
+      <pick publicID="smi:local/972420d0-a204-4181-9ac9-563cd599bf16">
+        <time>
+          <value>2020-03-18T13:11:10.850915Z</value>
+        </time>
+        <waveformID networkCode="UU" stationCode="ICF" locationCode="01" channelCode="ENZ"></waveformID>
+        <phaseHint>P</phaseHint>
+        <evaluationMode>manual</evaluationMode>
+      </pick>
+      <pick publicID="smi:local/7eb86036-3a2a-4f19-8363-f2e11f1901d9">
+        <time>
+          <value>2020-03-18T13:11:10.864460Z</value>
+          <uncertainty>0.013813257217407227</uncertainty>
+        </time>
+        <waveformID networkCode="UU" stationCode="LKC" locationCode="01" channelCode="ENZ"></waveformID>
+        <phaseHint>P</phaseHint>
+        <polarity>positive</polarity>
+        <evaluationMode>manual</evaluationMode>
+      </pick>
+      <amplitude publicID="smi:local/18e162ad-a919-419b-a909-d9424d94564d">
+        <genericAmplitude/>
+        <type>P</type>
+        <timeWindow>
+          <reference>2020-03-18T13:11:12.398547Z</reference>
+          <begin>0.0</begin>
+          <end>0.13872861862182617</end>
+        </timeWindow>
+        <pickID>smi:local/aca42e5e-8bd6-4d48-8ad0-90865fa59bea</pickID>
+      </amplitude>
+      <amplitude publicID="smi:local/4a42b1bf-9298-48c5-9ef5-f2276a52e975">
+        <genericAmplitude/>
+        <type>P</type>
+        <timeWindow>
+          <reference>2020-03-18T13:11:10.850915Z</reference>
+          <begin>0.0</begin>
+          <end>0.14460539817810059</end>
+        </timeWindow>
+        <pickID>smi:local/972420d0-a204-4181-9ac9-563cd599bf16</pickID>
+      </amplitude>
+      <amplitude publicID="smi:local/88f364a7-164a-4fc9-a9d4-87b6c53bda33">
+        <genericAmplitude/>
+        <type>P</type>
+        <timeWindow>
+          <reference>2020-03-18T13:11:10.864460Z</reference>
+          <begin>0.0</begin>
+          <end>0.10590171813964844</end>
+        </timeWindow>
+        <pickID>smi:local/7eb86036-3a2a-4f19-8363-f2e11f1901d9</pickID>
+      </amplitude>
+    </event>
+    <event publicID="smi:local/520eb34f-964b-4e8a-8f40-73e133f8b004">
+      <preferredOriginID>smi:local/64307eee-a5a7-4a3a-be8d-ac624f03d00a</preferredOriginID>
+      <description>
+        <text>LR</text>
+      </description>
+      <origin publicID="smi:local/64307eee-a5a7-4a3a-be8d-ac624f03d00a">
+        <time>
+          <value>2020-03-18T13:11:14.354733Z</value>
+        </time>
+        <latitude>
+          <value>0.0</value>
+        </latitude>
+        <longitude>
+          <value>0.0</value>
+        </longitude>
+        <depth>
+          <value>0.0</value>
+        </depth>
+      </origin>
+      <pick publicID="smi:local/155e105a-372c-4b88-bcff-1c0ca546a3b5">
+        <time>
+          <value>2020-03-18T13:11:14.479594Z</value>
+          <uncertainty>0.034377336502075195</uncertainty>
+        </time>
+        <waveformID networkCode="UU" stationCode="FTT" locationCode="01" channelCode="ENZ"></waveformID>
+        <phaseHint>P</phaseHint>
+        <evaluationMode>manual</evaluationMode>
+      </pick>
+      <pick publicID="smi:local/a99f09bb-dac3-4c20-b558-44593c30059b">
+        <time>
+          <value>2020-03-18T13:11:15.968770Z</value>
+          <uncertainty>0.015179634094238281</uncertainty>
+        </time>
+        <waveformID networkCode="UU" stationCode="FTT" locationCode="01" channelCode="ENN"></waveformID>
+        <phaseHint>S</phaseHint>
+        <evaluationMode>manual</evaluationMode>
+      </pick>
+      <pick publicID="smi:local/7f007de1-484a-4087-9743-43e240ac3c96">
+        <time>
+          <value>2020-03-18T13:11:14.413893Z</value>
+          <uncertainty>0.00872492790222168</uncertainty>
+        </time>
+        <waveformID networkCode="UU" stationCode="ICF" locationCode="01" channelCode="ENZ"></waveformID>
+        <phaseHint>P</phaseHint>
+        <evaluationMode>manual</evaluationMode>
+      </pick>
+      <pick publicID="smi:local/bb291661-fe7f-4f58-b716-f50a6b11865e">
+        <time>
+          <value>2020-03-18T13:11:16.007983Z</value>
+          <uncertainty>0.01516103744506836</uncertainty>
+        </time>
+        <waveformID networkCode="UU" stationCode="ICF" locationCode="01" channelCode="ENE"></waveformID>
+        <phaseHint>S</phaseHint>
+        <evaluationMode>manual</evaluationMode>
+      </pick>
+      <pick publicID="smi:local/8fb4437a-77c7-4ab0-a37a-0f0fabc00e65">
+        <time>
+          <value>2020-03-18T13:11:14.051426Z</value>
+          <uncertainty>0.013651371002197266</uncertainty>
+        </time>
+        <waveformID networkCode="UU" stationCode="LKC" locationCode="01" channelCode="ENZ"></waveformID>
+        <phaseHint>P</phaseHint>
+        <evaluationMode>manual</evaluationMode>
+      </pick>
+      <pick publicID="smi:local/c9b48062-8a0f-49cc-b53b-1b6497be2be1">
+        <time>
+          <value>2020-03-18T13:11:15.519726Z</value>
+          <uncertainty>0.030553340911865234</uncertainty>
+        </time>
+        <waveformID networkCode="UU" stationCode="LKC" locationCode="01" channelCode="ENN"></waveformID>
+        <phaseHint>S</phaseHint>
+        <evaluationMode>manual</evaluationMode>
+      </pick>
+      <pick publicID="smi:local/186172b0-a822-4771-84f5-447b8468da9d">
+        <time>
+          <value>2020-03-18T13:11:15.533259Z</value>
+          <uncertainty>0.02213883399963379</uncertainty>
+        </time>
+        <waveformID networkCode="UU" stationCode="SAIU" locationCode="01" channelCode="ENZ"></waveformID>
+        <phaseHint>P</phaseHint>
+        <evaluationMode>manual</evaluationMode>
+      </pick>
+      <amplitude publicID="smi:local/4d2221f0-b875-4857-895c-abf0ef8ada51">
+        <genericAmplitude/>
+        <type>P</type>
+        <timeWindow>
+          <reference>2020-03-18T13:11:14.479594Z</reference>
+          <begin>0.0</begin>
+          <end>0.19251322746276855</end>
+        </timeWindow>
+        <pickID>smi:local/155e105a-372c-4b88-bcff-1c0ca546a3b5</pickID>
+      </amplitude>
+      <amplitude publicID="smi:local/2d83c288-f12c-4bba-93ac-37c96d0a1ae4">
+        <genericAmplitude/>
+        <type>S</type>
+        <timeWindow>
+          <reference>2020-03-18T13:11:15.968770Z</reference>
+          <begin>0.0</begin>
+          <end>0.1543283462524414</end>
+        </timeWindow>
+        <pickID>smi:local/a99f09bb-dac3-4c20-b558-44593c30059b</pickID>
+      </amplitude>
+      <amplitude publicID="smi:local/c34da8c8-4916-4938-a8f6-c88f4cc5f062">
+        <genericAmplitude/>
+        <type>P</type>
+        <timeWindow>
+          <reference>2020-03-18T13:11:14.413893Z</reference>
+          <begin>0.0</begin>
+          <end>0.11342406272888184</end>
+        </timeWindow>
+        <pickID>smi:local/7f007de1-484a-4087-9743-43e240ac3c96</pickID>
+      </amplitude>
+      <amplitude publicID="smi:local/13329b99-045d-4d80-bf00-4a8bade40c5d">
+        <genericAmplitude/>
+        <type>S</type>
+        <timeWindow>
+          <reference>2020-03-18T13:11:16.007983Z</reference>
+          <begin>0.0</begin>
+          <end>0.29753756523132324</end>
+        </timeWindow>
+        <pickID>smi:local/bb291661-fe7f-4f58-b716-f50a6b11865e</pickID>
+      </amplitude>
+      <amplitude publicID="smi:local/eab70f40-07a2-40d1-9aaa-4074d02ab1ec">
+        <genericAmplitude/>
+        <type>S</type>
+        <timeWindow>
+          <reference>2020-03-18T13:11:15.519726Z</reference>
+          <begin>0.0</begin>
+          <end>0.29636716842651367</end>
+        </timeWindow>
+        <pickID>smi:local/c9b48062-8a0f-49cc-b53b-1b6497be2be1</pickID>
+      </amplitude>
+      <amplitude publicID="smi:local/d35700f6-0cce-4924-8c73-c16fe4012afa">
+        <genericAmplitude/>
+        <type>P</type>
+        <timeWindow>
+          <reference>2020-03-18T13:11:15.533259Z</reference>
+          <begin>0.0</begin>
+          <end>0.17341971397399902</end>
+        </timeWindow>
+        <pickID>smi:local/186172b0-a822-4771-84f5-447b8468da9d</pickID>
+      </amplitude>
+    </event>
+    <event publicID="smi:local/0c354cc8-a9ed-429e-9ecf-6e20b7b6702e">
+      <preferredOriginID>smi:local/d926f64d-5442-41eb-8c3a-aa21a1f3a5ef</preferredOriginID>
+      <description>
+        <text>LR</text>
+      </description>
+      <origin publicID="smi:local/d926f64d-5442-41eb-8c3a-aa21a1f3a5ef">
+        <time>
+          <value>2020-03-18T13:11:30.231581Z</value>
+        </time>
+        <latitude>
+          <value>0.0</value>
+        </latitude>
+        <longitude>
+          <value>0.0</value>
+        </longitude>
+        <depth>
+          <value>0.0</value>
+        </depth>
+      </origin>
+      <pick publicID="smi:local/9890afa2-a500-4663-aec8-e55b354d216f">
+        <time>
+          <value>2020-03-18T13:11:30.594059Z</value>
+          <uncertainty>0.009096145629882812</uncertainty>
+        </time>
+        <waveformID networkCode="UU" stationCode="ICF" locationCode="01" channelCode="ENZ"></waveformID>
+        <phaseHint>P</phaseHint>
+        <polarity>negative</polarity>
+        <evaluationMode>manual</evaluationMode>
+      </pick>
+      <amplitude publicID="smi:local/0949e19f-156b-4000-a083-a335ed8ffde7">
+        <genericAmplitude/>
+        <type>P</type>
+        <timeWindow>
+          <reference>2020-03-18T13:11:30.594059Z</reference>
+          <begin>0.0</begin>
+          <end>0.09355998039245605</end>
+        </timeWindow>
+        <pickID>smi:local/9890afa2-a500-4663-aec8-e55b354d216f</pickID>
+      </amplitude>
+    </event>
+    <event publicID="smi:local/ad06b239-c177-4f44-9f63-7f47d371033d">
+      <preferredOriginID>smi:local/2e28ca5a-1ca7-4850-bce2-6e017430c02b</preferredOriginID>
+      <description>
+        <text>LR</text>
+      </description>
+      <origin publicID="smi:local/2e28ca5a-1ca7-4850-bce2-6e017430c02b">
+        <time>
+          <value>2020-03-18T13:11:38.790457Z</value>
+        </time>
+        <latitude>
+          <value>0.0</value>
+        </latitude>
+        <longitude>
+          <value>0.0</value>
+        </longitude>
+        <depth>
+          <value>0.0</value>
+        </depth>
+      </origin>
+      <pick publicID="smi:local/ca9ed45c-9e44-4356-b730-9d67c325d3b8">
+        <time>
+          <value>2020-03-18T13:11:41.138824Z</value>
+          <uncertainty>0.012703180313110352</uncertainty>
+        </time>
+        <waveformID networkCode="UU" stationCode="FTT" locationCode="01" channelCode="ENZ"></waveformID>
+        <phaseHint>P</phaseHint>
+        <polarity>positive</polarity>
+        <evaluationMode>manual</evaluationMode>
+      </pick>
+      <pick publicID="smi:local/73c48a35-ba45-4d3d-b902-c9f961bd50a7">
+        <time>
+          <value>2020-03-18T13:11:42.883813Z</value>
+          <uncertainty>0.027660608291625977</uncertainty>
+        </time>
+        <waveformID networkCode="UU" stationCode="FTT" locationCode="01" channelCode="ENE"></waveformID>
+        <phaseHint>S</phaseHint>
+        <evaluationMode>manual</evaluationMode>
+      </pick>
+      <pick publicID="smi:local/70f6d2f0-36bb-42bc-ad95-7ac0234057e6">
+        <time>
+          <value>2020-03-18T13:11:40.846218Z</value>
+          <uncertainty>0.004982948303222656</uncertainty>
+        </time>
+        <waveformID networkCode="UU" stationCode="ICF" locationCode="01" channelCode="ENZ"></waveformID>
+        <phaseHint>P</phaseHint>
+        <evaluationMode>manual</evaluationMode>
+      </pick>
+      <pick publicID="smi:local/dbb181ec-6edb-4a2b-9700-751c374656fa">
+        <time>
+          <value>2020-03-18T13:11:42.412825Z</value>
+          <uncertainty>0.04718613624572754</uncertainty>
+        </time>
+        <waveformID networkCode="UU" stationCode="ICF" locationCode="01" channelCode="ENN"></waveformID>
+        <phaseHint>S</phaseHint>
+        <evaluationMode>manual</evaluationMode>
+      </pick>
+      <pick publicID="smi:local/1d0b60a0-6cb1-4506-916e-0d88261dd0e6">
+        <time>
+          <value>2020-03-18T13:11:40.790745Z</value>
+          <uncertainty>0.005402803421020508</uncertainty>
+        </time>
+        <waveformID networkCode="UU" stationCode="LKC" locationCode="01" channelCode="ENZ"></waveformID>
+        <phaseHint>P</phaseHint>
+        <polarity>positive</polarity>
+        <evaluationMode>manual</evaluationMode>
+      </pick>
+      <pick publicID="smi:local/240464f5-f54e-4ca1-8ee9-daec13b7bd9d">
+        <time>
+          <value>2020-03-18T13:11:42.105394Z</value>
+          <uncertainty>0.010531902313232422</uncertainty>
+        </time>
+        <waveformID networkCode="UU" stationCode="LKC" locationCode="01" channelCode="ENN"></waveformID>
+        <phaseHint>S</phaseHint>
+        <evaluationMode>manual</evaluationMode>
+      </pick>
+      <pick publicID="smi:local/836bc3e8-8b35-495d-887e-f00933a73252">
+        <time>
+          <value>2020-03-18T13:11:41.763889Z</value>
+          <uncertainty>0.023176193237304688</uncertainty>
+        </time>
+        <waveformID networkCode="UU" stationCode="NOQ" locationCode="01" channelCode="HHZ"></waveformID>
+        <phaseHint>P</phaseHint>
+        <polarity>positive</polarity>
+        <evaluationMode>manual</evaluationMode>
+      </pick>
+      <pick publicID="smi:local/e99be626-2a73-4094-811d-b3fc794aa319">
+        <time>
+          <value>2020-03-18T13:11:43.810007Z</value>
+          <uncertainty>0.008136272430419922</uncertainty>
+        </time>
+        <waveformID networkCode="UU" stationCode="NOQ" locationCode="01" channelCode="HHN"></waveformID>
+        <phaseHint>S</phaseHint>
+        <evaluationMode>manual</evaluationMode>
+      </pick>
+      <pick publicID="smi:local/fdd66642-d6eb-48db-87db-08ac8f46a91f">
+        <time>
+          <value>2020-03-18T13:11:41.729902Z</value>
+          <uncertainty>0.004052162170410156</uncertainty>
+        </time>
+        <waveformID networkCode="UU" stationCode="SAIU" locationCode="01" channelCode="ENZ"></waveformID>
+        <phaseHint>P</phaseHint>
+        <polarity>negative</polarity>
+        <evaluationMode>manual</evaluationMode>
+      </pick>
+      <amplitude publicID="smi:local/000a8c88-669a-402a-862c-bf69162ec04f">
+        <genericAmplitude/>
+        <type>P</type>
+        <timeWindow>
+          <reference>2020-03-18T13:11:41.138824Z</reference>
+          <begin>0.0</begin>
+          <end>0.2238926887512207</end>
+        </timeWindow>
+        <pickID>smi:local/ca9ed45c-9e44-4356-b730-9d67c325d3b8</pickID>
+      </amplitude>
+      <amplitude publicID="smi:local/c8e649f0-4161-441d-b522-6792ded91d32">
+        <genericAmplitude/>
+        <type>S</type>
+        <timeWindow>
+          <reference>2020-03-18T13:11:42.883813Z</reference>
+          <begin>0.0</begin>
+          <end>0.2735326290130615</end>
+        </timeWindow>
+        <pickID>smi:local/73c48a35-ba45-4d3d-b902-c9f961bd50a7</pickID>
+      </amplitude>
+      <amplitude publicID="smi:local/d8dfd0c5-0eba-486d-8bad-0f14cb1bf72d">
+        <genericAmplitude/>
+        <type>P</type>
+        <timeWindow>
+          <reference>2020-03-18T13:11:40.846218Z</reference>
+          <begin>0.0</begin>
+          <end>0.1016545295715332</end>
+        </timeWindow>
+        <pickID>smi:local/70f6d2f0-36bb-42bc-ad95-7ac0234057e6</pickID>
+      </amplitude>
+      <amplitude publicID="smi:local/ebce23f5-64e8-4ac2-ba31-c0bef6ee97fc">
+        <genericAmplitude/>
+        <type>S</type>
+        <timeWindow>
+          <reference>2020-03-18T13:11:42.412825Z</reference>
+          <begin>0.0</begin>
+          <end>0.4337136745452881</end>
+        </timeWindow>
+        <pickID>smi:local/dbb181ec-6edb-4a2b-9700-751c374656fa</pickID>
+      </amplitude>
+      <amplitude publicID="smi:local/60e7a0b2-f246-4e4a-81e1-1f694f7c249c">
+        <genericAmplitude/>
+        <type>P</type>
+        <timeWindow>
+          <reference>2020-03-18T13:11:40.790745Z</reference>
+          <begin>0.0</begin>
+          <end>0.0992743968963623</end>
+        </timeWindow>
+        <pickID>smi:local/1d0b60a0-6cb1-4506-916e-0d88261dd0e6</pickID>
+      </amplitude>
+      <amplitude publicID="smi:local/82faf970-49cd-4891-bc40-0d58dbc10f25">
+        <genericAmplitude/>
+        <type>S</type>
+        <timeWindow>
+          <reference>2020-03-18T13:11:42.105394Z</reference>
+          <begin>0.0</begin>
+          <end>0.31068897247314453</end>
+        </timeWindow>
+        <pickID>smi:local/240464f5-f54e-4ca1-8ee9-daec13b7bd9d</pickID>
+      </amplitude>
+      <amplitude publicID="smi:local/6521992b-f7ce-45a2-afc4-8a3d144d4091">
+        <genericAmplitude/>
+        <type>P</type>
+        <timeWindow>
+          <reference>2020-03-18T13:11:41.763889Z</reference>
+          <begin>0.0</begin>
+          <end>0.3605175018310547</end>
+        </timeWindow>
+        <pickID>smi:local/836bc3e8-8b35-495d-887e-f00933a73252</pickID>
+      </amplitude>
+      <amplitude publicID="smi:local/1000ef91-87bb-44b3-b7f5-f76b502fdb4c">
+        <genericAmplitude/>
+        <type>S</type>
+        <timeWindow>
+          <reference>2020-03-18T13:11:43.810007Z</reference>
+          <begin>0.0</begin>
+          <end>0.20747709274291992</end>
+        </timeWindow>
+        <pickID>smi:local/e99be626-2a73-4094-811d-b3fc794aa319</pickID>
+      </amplitude>
+      <amplitude publicID="smi:local/8484aef8-6342-4624-abc9-e011f50f0330">
+        <genericAmplitude/>
+        <type>P</type>
+        <timeWindow>
+          <reference>2020-03-18T13:11:41.729902Z</reference>
+          <begin>0.0</begin>
+          <end>0.12223577499389648</end>
+        </timeWindow>
+        <pickID>smi:local/fdd66642-d6eb-48db-87db-08ac8f46a91f</pickID>
+      </amplitude>
+    </event>
+    <event publicID="smi:local/1cf075fe-330d-4153-859b-881debb793a8">
+      <preferredOriginID>smi:local/bad6923b-799e-4792-b66a-c5ee885e92a9</preferredOriginID>
+      <description>
+        <text>LR</text>
+      </description>
+      <origin publicID="smi:local/bad6923b-799e-4792-b66a-c5ee885e92a9">
+        <time>
+          <value>2020-03-18T13:11:56.536380Z</value>
+        </time>
+        <latitude>
+          <value>0.0</value>
+        </latitude>
+        <longitude>
+          <value>0.0</value>
+        </longitude>
+        <depth>
+          <value>0.0</value>
+        </depth>
+      </origin>
+      <pick publicID="smi:local/3ec4e400-fcf8-43b3-9273-26859c3d4e97">
+        <time>
+          <value>2020-03-18T13:11:59.106990Z</value>
+          <uncertainty>0.009527206420898438</uncertainty>
+        </time>
+        <waveformID networkCode="UU" stationCode="FTT" locationCode="01" channelCode="ENZ"></waveformID>
+        <phaseHint>P</phaseHint>
+        <polarity>negative</polarity>
+        <evaluationMode>manual</evaluationMode>
+      </pick>
+      <pick publicID="smi:local/0872acf1-4f12-424c-b1f0-461a0bd5bccd">
+        <time>
+          <value>2020-03-18T13:12:00.696812Z</value>
+          <uncertainty>0.01420903205871582</uncertainty>
+        </time>
+        <waveformID networkCode="UU" stationCode="FTT" locationCode="01" channelCode="ENN"></waveformID>
+        <phaseHint>S</phaseHint>
+        <evaluationMode>manual</evaluationMode>
+      </pick>
+      <pick publicID="smi:local/7f97852a-4b24-4fca-9718-657263be7973">
+        <time>
+          <value>2020-03-18T13:12:01.284148Z</value>
+          <uncertainty>0.02266716957092285</uncertainty>
+        </time>
+        <waveformID networkCode="UU" stationCode="ICF" locationCode="01" channelCode="ENN"></waveformID>
+        <phaseHint>S</phaseHint>
+        <evaluationMode>manual</evaluationMode>
+      </pick>
+      <pick publicID="smi:local/a06d2b98-2e19-4998-9363-ccbf02c08d54">
+        <time>
+          <value>2020-03-18T13:11:59.631754Z</value>
+          <uncertainty>0.01738452911376953</uncertainty>
+        </time>
+        <waveformID networkCode="UU" stationCode="NOQ" locationCode="01" channelCode="HHZ"></waveformID>
+        <phaseHint>P</phaseHint>
+        <polarity>positive</polarity>
+        <evaluationMode>manual</evaluationMode>
+      </pick>
+      <pick publicID="smi:local/1194d868-adba-45f6-b34d-a2422314ea94">
+        <time>
+          <value>2020-03-18T13:12:01.393062Z</value>
+          <uncertainty>0.01124262809753418</uncertainty>
+        </time>
+        <waveformID networkCode="UU" stationCode="NOQ" locationCode="01" channelCode="HHE"></waveformID>
+        <phaseHint>S</phaseHint>
+        <evaluationMode>manual</evaluationMode>
+      </pick>
+      <pick publicID="smi:local/87d3417e-24b4-43f8-9eb4-0d00ef650640">
+        <time>
+          <value>2020-03-18T13:12:00.230627Z</value>
+          <uncertainty>0.009415864944458008</uncertainty>
+        </time>
+        <waveformID networkCode="UU" stationCode="SAIU" locationCode="01" channelCode="ENZ"></waveformID>
+        <phaseHint>P</phaseHint>
+        <evaluationMode>manual</evaluationMode>
+      </pick>
+      <amplitude publicID="smi:local/7ac8ae39-b195-4416-8e37-c5669a631502">
+        <genericAmplitude/>
+        <type>P</type>
+        <timeWindow>
+          <reference>2020-03-18T13:11:59.106990Z</reference>
+          <begin>0.0</begin>
+          <end>0.10638880729675293</end>
+        </timeWindow>
+        <pickID>smi:local/3ec4e400-fcf8-43b3-9273-26859c3d4e97</pickID>
+      </amplitude>
+      <amplitude publicID="smi:local/3552001f-f806-4cde-8d36-cb89a5dc72fd">
+        <genericAmplitude/>
+        <type>S</type>
+        <timeWindow>
+          <reference>2020-03-18T13:12:00.696812Z</reference>
+          <begin>0.0</begin>
+          <end>0.1953740119934082</end>
+        </timeWindow>
+        <pickID>smi:local/0872acf1-4f12-424c-b1f0-461a0bd5bccd</pickID>
+      </amplitude>
+      <amplitude publicID="smi:local/18d16c5d-ac6c-461c-b7fe-0f08d528c5ef">
+        <genericAmplitude/>
+        <type>S</type>
+        <timeWindow>
+          <reference>2020-03-18T13:12:01.284148Z</reference>
+          <begin>0.0</begin>
+          <end>0.33244991302490234</end>
+        </timeWindow>
+        <pickID>smi:local/7f97852a-4b24-4fca-9718-657263be7973</pickID>
+      </amplitude>
+      <amplitude publicID="smi:local/a899ce98-a950-4296-884f-3670a3973054">
+        <genericAmplitude/>
+        <type>P</type>
+        <timeWindow>
+          <reference>2020-03-18T13:11:59.631754Z</reference>
+          <begin>0.0</begin>
+          <end>0.19123005867004395</end>
+        </timeWindow>
+        <pickID>smi:local/a06d2b98-2e19-4998-9363-ccbf02c08d54</pickID>
+      </amplitude>
+      <amplitude publicID="smi:local/7372969a-c3bd-4a52-97a2-1212b8cf3a64">
+        <genericAmplitude/>
+        <type>S</type>
+        <timeWindow>
+          <reference>2020-03-18T13:12:01.393062Z</reference>
+          <begin>0.0</begin>
+          <end>0.2540857791900635</end>
+        </timeWindow>
+        <pickID>smi:local/1194d868-adba-45f6-b34d-a2422314ea94</pickID>
+      </amplitude>
+      <amplitude publicID="smi:local/e1ab14c7-e406-4f07-bd98-c5b89fa9bb52">
+        <genericAmplitude/>
+        <type>P</type>
+        <timeWindow>
+          <reference>2020-03-18T13:12:00.230627Z</reference>
+          <begin>0.0</begin>
+          <end>0.10828018188476562</end>
+        </timeWindow>
+        <pickID>smi:local/87d3417e-24b4-43f8-9eb4-0d00ef650640</pickID>
+      </amplitude>
+    </event>
+    <event publicID="smi:local/05f5e83a-dd0f-4b73-9309-dbff5d59b70f">
+      <preferredOriginID>smi:local/18124505-c3bf-483f-9850-984fa4d0511f</preferredOriginID>
+      <description>
+        <text>LR</text>
+      </description>
+      <origin publicID="smi:local/18124505-c3bf-483f-9850-984fa4d0511f">
+        <time>
+          <value>2020-03-18T13:12:54.542727Z</value>
+        </time>
+        <latitude>
+          <value>0.0</value>
+        </latitude>
+        <longitude>
+          <value>0.0</value>
+        </longitude>
+        <depth>
+          <value>0.0</value>
+        </depth>
+      </origin>
+      <pick publicID="smi:local/0ee547d9-b18c-4b9a-a886-0f8583a65ade">
+        <time>
+          <value>2020-03-18T13:12:55.388223Z</value>
+          <uncertainty>0.015612602233886719</uncertainty>
+        </time>
+        <waveformID networkCode="UU" stationCode="FTT" locationCode="01" channelCode="ENZ"></waveformID>
+        <phaseHint>P</phaseHint>
+        <evaluationMode>manual</evaluationMode>
+      </pick>
+      <pick publicID="smi:local/f847648f-6a1e-448d-bae8-c9f9813ac907">
+        <time>
+          <value>2020-03-18T13:12:55.403180Z</value>
+          <uncertainty>0.006728172302246094</uncertainty>
+        </time>
+        <waveformID networkCode="UU" stationCode="ICF" locationCode="01" channelCode="ENZ"></waveformID>
+        <phaseHint>P</phaseHint>
+        <polarity>negative</polarity>
+        <evaluationMode>manual</evaluationMode>
+      </pick>
+      <pick publicID="smi:local/357962ee-c7b9-4210-8241-688bed62a5bf">
+        <time>
+          <value>2020-03-18T13:12:55.954169Z</value>
+          <uncertainty>0.025449275970458984</uncertainty>
+        </time>
+        <waveformID networkCode="UU" stationCode="NOQ" locationCode="01" channelCode="HHZ"></waveformID>
+        <phaseHint>P</phaseHint>
+        <polarity>positive</polarity>
+        <evaluationMode>manual</evaluationMode>
+      </pick>
+      <pick publicID="smi:local/116095b4-6481-44f2-9618-74f3a2b6f8e5">
+        <time>
+          <value>2020-03-18T13:12:56.728850Z</value>
+          <uncertainty>0.014357805252075195</uncertainty>
+        </time>
+        <waveformID networkCode="UU" stationCode="SAIU" locationCode="01" channelCode="ENZ"></waveformID>
+        <phaseHint>P</phaseHint>
+        <polarity>positive</polarity>
+        <evaluationMode>manual</evaluationMode>
+      </pick>
+      <pick publicID="smi:local/88d4bd16-673e-4564-9b95-d5d9f6e91b51">
+        <time>
+          <value>2020-03-18T13:12:58.915435Z</value>
+          <uncertainty>0.016389131546020508</uncertainty>
+        </time>
+        <waveformID networkCode="UU" stationCode="SAIU" locationCode="01" channelCode="ENE"></waveformID>
+        <phaseHint>S</phaseHint>
+        <evaluationMode>manual</evaluationMode>
+      </pick>
+      <amplitude publicID="smi:local/bc109574-1a44-417a-9cc9-606ab91e04fa">
+        <genericAmplitude/>
+        <type>P</type>
+        <timeWindow>
+          <reference>2020-03-18T13:12:55.388223Z</reference>
+          <begin>0.0</begin>
+          <end>0.21163702011108398</end>
+        </timeWindow>
+        <pickID>smi:local/0ee547d9-b18c-4b9a-a886-0f8583a65ade</pickID>
+      </amplitude>
+      <amplitude publicID="smi:local/652697bc-6990-44e0-9cde-e1fe840d4528">
+        <genericAmplitude/>
+        <type>P</type>
+        <timeWindow>
+          <reference>2020-03-18T13:12:55.403180Z</reference>
+          <begin>0.0</begin>
+          <end>0.13119745254516602</end>
+        </timeWindow>
+        <pickID>smi:local/f847648f-6a1e-448d-bae8-c9f9813ac907</pickID>
+      </amplitude>
+      <amplitude publicID="smi:local/a70d6c82-092c-4ecf-9924-6d33f0e86b9d">
+        <genericAmplitude/>
+        <type>P</type>
+        <timeWindow>
+          <reference>2020-03-18T13:12:55.954169Z</reference>
+          <begin>0.0</begin>
+          <end>0.22140932083129883</end>
+        </timeWindow>
+        <pickID>smi:local/357962ee-c7b9-4210-8241-688bed62a5bf</pickID>
+      </amplitude>
+      <amplitude publicID="smi:local/18c785b8-b4e8-4616-8e2a-6f08eb7300a8">
+        <genericAmplitude/>
+        <type>P</type>
+        <timeWindow>
+          <reference>2020-03-18T13:12:56.728850Z</reference>
+          <begin>0.0</begin>
+          <end>0.1447746753692627</end>
+        </timeWindow>
+        <pickID>smi:local/116095b4-6481-44f2-9618-74f3a2b6f8e5</pickID>
+      </amplitude>
+      <amplitude publicID="smi:local/45010f1c-22eb-49fc-831e-b94c03c48fa1">
+        <genericAmplitude/>
+        <type>S</type>
+        <timeWindow>
+          <reference>2020-03-18T13:12:58.915435Z</reference>
+          <begin>0.0</begin>
+          <end>0.15842843055725098</end>
+        </timeWindow>
+        <pickID>smi:local/88d4bd16-673e-4564-9b95-d5d9f6e91b51</pickID>
+      </amplitude>
+    </event>
+    <event publicID="smi:local/089d62e0-32a2-44c1-b7aa-901bd3c4d9ab">
+      <preferredOriginID>smi:local/29d49e45-accb-4f12-98f7-703571ce818f</preferredOriginID>
+      <description>
+        <text>LR</text>
+      </description>
+      <origin publicID="smi:local/29d49e45-accb-4f12-98f7-703571ce818f">
+        <time>
+          <value>2020-03-18T13:13:25.771652Z</value>
+        </time>
+        <latitude>
+          <value>0.0</value>
+        </latitude>
+        <longitude>
+          <value>0.0</value>
+        </longitude>
+        <depth>
+          <value>0.0</value>
+        </depth>
+      </origin>
+      <pick publicID="smi:local/63b4b8c0-c707-40e1-bdb4-93468674e234">
+        <time>
+          <value>2020-03-18T13:13:27.183334Z</value>
+          <uncertainty>0.009150028228759766</uncertainty>
+        </time>
+        <waveformID networkCode="UU" stationCode="FTT" locationCode="01" channelCode="ENZ"></waveformID>
+        <phaseHint>P</phaseHint>
+        <polarity>negative</polarity>
+        <evaluationMode>manual</evaluationMode>
+      </pick>
+      <pick publicID="smi:local/abc4a71e-1c07-496b-802d-e104ba22d354">
+        <time>
+          <value>2020-03-18T13:13:30.511348Z</value>
+          <uncertainty>0.03119206428527832</uncertainty>
+        </time>
+        <waveformID networkCode="UU" stationCode="FTT" locationCode="01" channelCode="ENN"></waveformID>
+        <phaseHint>S</phaseHint>
+        <evaluationMode>manual</evaluationMode>
+      </pick>
+      <pick publicID="smi:local/1c7ef6a8-3b8e-4ae1-8416-82c9ff055e19">
+        <time>
+          <value>2020-03-18T13:13:28.403079Z</value>
+          <uncertainty>0.0041506290435791016</uncertainty>
+        </time>
+        <waveformID networkCode="UU" stationCode="ICF" locationCode="01" channelCode="ENZ"></waveformID>
+        <phaseHint>P</phaseHint>
+        <polarity>negative</polarity>
+        <evaluationMode>manual</evaluationMode>
+      </pick>
+      <pick publicID="smi:local/e6072273-6b62-4cd4-8b0a-94f057e0b9fd">
+        <time>
+          <value>2020-03-18T13:13:28.421281Z</value>
+          <uncertainty>0.004871368408203125</uncertainty>
+        </time>
+        <waveformID networkCode="UU" stationCode="LKC" locationCode="01" channelCode="ENZ"></waveformID>
+        <phaseHint>P</phaseHint>
+        <polarity>negative</polarity>
+        <evaluationMode>manual</evaluationMode>
+      </pick>
+      <pick publicID="smi:local/e8ca72a3-7d6f-4490-9862-bd7833df585e">
+        <time>
+          <value>2020-03-18T13:13:29.934929Z</value>
+          <uncertainty>0.026080608367919922</uncertainty>
+        </time>
+        <waveformID networkCode="UU" stationCode="LKC" locationCode="01" channelCode="ENN"></waveformID>
+        <phaseHint>S</phaseHint>
+        <evaluationMode>manual</evaluationMode>
+      </pick>
+      <pick publicID="smi:local/f4ac7092-5fe9-46bf-9ee6-e88336530d22">
+        <time>
+          <value>2020-03-18T13:13:29.558717Z</value>
+          <uncertainty>0.014322996139526367</uncertainty>
+        </time>
+        <waveformID networkCode="UU" stationCode="NOQ" locationCode="01" channelCode="HHZ"></waveformID>
+        <phaseHint>P</phaseHint>
+        <polarity>positive</polarity>
+        <evaluationMode>manual</evaluationMode>
+      </pick>
+      <pick publicID="smi:local/d984299d-d364-40a4-ade3-d0cbfbfd18c7">
+        <time>
+          <value>2020-03-18T13:13:31.617049Z</value>
+          <uncertainty>0.01636672019958496</uncertainty>
+        </time>
+        <waveformID networkCode="UU" stationCode="NOQ" locationCode="01" channelCode="HHN"></waveformID>
+        <phaseHint>S</phaseHint>
+        <evaluationMode>manual</evaluationMode>
+      </pick>
+      <pick publicID="smi:local/c74179bb-3d1e-41d4-906c-c255fba119fe">
+        <time>
+          <value>2020-03-18T13:13:29.576609Z</value>
+          <uncertainty>0.009035110473632812</uncertainty>
+        </time>
+        <waveformID networkCode="UU" stationCode="SAIU" locationCode="01" channelCode="ENZ"></waveformID>
+        <phaseHint>P</phaseHint>
+        <polarity>positive</polarity>
+        <evaluationMode>manual</evaluationMode>
+      </pick>
+      <amplitude publicID="smi:local/1bbb7586-91cc-465d-a373-7f29466767a4">
+        <genericAmplitude/>
+        <type>P</type>
+        <timeWindow>
+          <reference>2020-03-18T13:13:27.183334Z</reference>
+          <begin>0.0</begin>
+          <end>0.18953347206115723</end>
+        </timeWindow>
+        <pickID>smi:local/63b4b8c0-c707-40e1-bdb4-93468674e234</pickID>
+      </amplitude>
+      <amplitude publicID="smi:local/46ce61de-0522-472b-bc53-d4827a4f2c63">
+        <genericAmplitude/>
+        <type>S</type>
+        <timeWindow>
+          <reference>2020-03-18T13:13:30.511348Z</reference>
+          <begin>0.0</begin>
+          <end>0.28072667121887207</end>
+        </timeWindow>
+        <pickID>smi:local/abc4a71e-1c07-496b-802d-e104ba22d354</pickID>
+      </amplitude>
+      <amplitude publicID="smi:local/2ed1ef9b-69c3-47a3-9db8-7e2c2d3c1fe3">
+        <genericAmplitude/>
+        <type>P</type>
+        <timeWindow>
+          <reference>2020-03-18T13:13:28.403079Z</reference>
+          <begin>0.0</begin>
+          <end>0.13863110542297363</end>
+        </timeWindow>
+        <pickID>smi:local/1c7ef6a8-3b8e-4ae1-8416-82c9ff055e19</pickID>
+      </amplitude>
+      <amplitude publicID="smi:local/65937a78-ae17-4837-900d-febcbcb190d8">
+        <genericAmplitude/>
+        <type>P</type>
+        <timeWindow>
+          <reference>2020-03-18T13:13:28.421281Z</reference>
+          <begin>0.0</begin>
+          <end>0.1363978385925293</end>
+        </timeWindow>
+        <pickID>smi:local/e6072273-6b62-4cd4-8b0a-94f057e0b9fd</pickID>
+      </amplitude>
+      <amplitude publicID="smi:local/27e7e8c6-22a9-4939-b6ca-1793f9a15cbc">
+        <genericAmplitude/>
+        <type>S</type>
+        <timeWindow>
+          <reference>2020-03-18T13:13:29.934929Z</reference>
+          <begin>0.0</begin>
+          <end>0.3292665481567383</end>
+        </timeWindow>
+        <pickID>smi:local/e8ca72a3-7d6f-4490-9862-bd7833df585e</pickID>
+      </amplitude>
+      <amplitude publicID="smi:local/4d75ec36-52a2-42cc-9eec-4c010b4c6f0f">
+        <genericAmplitude/>
+        <type>P</type>
+        <timeWindow>
+          <reference>2020-03-18T13:13:29.558717Z</reference>
+          <begin>0.0</begin>
+          <end>0.29054903984069824</end>
+        </timeWindow>
+        <pickID>smi:local/f4ac7092-5fe9-46bf-9ee6-e88336530d22</pickID>
+      </amplitude>
+      <amplitude publicID="smi:local/838fe8fb-cb45-43fd-a07e-6bfdb1c0be44">
+        <genericAmplitude/>
+        <type>S</type>
+        <timeWindow>
+          <reference>2020-03-18T13:13:31.617049Z</reference>
+          <begin>0.0</begin>
+          <end>0.23640680313110352</end>
+        </timeWindow>
+        <pickID>smi:local/d984299d-d364-40a4-ade3-d0cbfbfd18c7</pickID>
+      </amplitude>
+      <amplitude publicID="smi:local/457dbaee-d13b-49b4-aa07-6a8c8f561168">
+        <genericAmplitude/>
+        <type>P</type>
+        <timeWindow>
+          <reference>2020-03-18T13:13:29.576609Z</reference>
+          <begin>0.0</begin>
+          <end>0.17919325828552246</end>
+        </timeWindow>
+        <pickID>smi:local/c74179bb-3d1e-41d4-906c-c255fba119fe</pickID>
+      </amplitude>
+    </event>
+  </eventParameters>
+</q:quakeml>
