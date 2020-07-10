@@ -1,4 +1,4 @@
-# Obsplus Dataset: slc_2020_small
+# Obsplus Dataset: magna_test
 
 ObsPlus dataset of the 2020 Salt Lake City earthquake including only a
 few stations and small amounts of continuous data. This dataset may not
